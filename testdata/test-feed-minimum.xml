@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://www.example.com/feed" rel="self" type="application/rss+xml"/>
+    <title>Test podcast 1</title>
+    <link>http://www.example.com/podcast-site</link>
+    <language>en</language>
+    <description>Test podcast description goes here</description>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:image href="http://www.example.com/image.jpg"/>
+    <itunes:category text="Comedy">
+      <itunes:category text="Bad Jokes"/>
+    </itunes:category>
+    <item>
+      <title>Test episode 1</title>
+      <enclosure url="http://www.example.com/episode-1.mp3" length="1001" type="audio/mpeg"/>
+      <guid>12345-67890-abcdef</guid>
+    </item>
+    <item>
+      <title>Test episode 2</title>
+      <enclosure url="http://www.example.com/episode-2.mp3" length="1002" type="audio/mpeg"/>
+      <guid>22345-67890-abcdef</guid>
+    </item>
+  </channel>
+</rss>
