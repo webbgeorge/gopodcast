@@ -3,6 +3,7 @@ package gopodcast_test
 import (
 	"bytes"
 	"os"
+	"reflect"
 	"strings"
 	"testing"
 
@@ -22,6 +23,7 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 		t.Fatal(err)
 	}
 
+	// channel fields
 	assertNotNil(t, podcast)
 	assertStr(t, "http://www.example.com/feed", podcast.AtomLink.Href)
 	assertStr(t, "self", podcast.AtomLink.Rel)
@@ -35,13 +37,39 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 	assertInt(t, 1, len(podcast.ITunesCategory))
 	assertStr(t, "Comedy", podcast.ITunesCategory[0].Text)
 
+	// non-required channel fields should be zero values
+	assertNil(t, podcast.ITunesCategory[0].SubCategory)
+	assertStr(t, "", podcast.PodcastLocked)
+	assertStr(t, "", podcast.PodcastGUID)
+	assertStr(t, "", podcast.ITunesAuthor)
+	assertStr(t, "", podcast.Copyright)
+	assertNil(t, podcast.PodcastText)
+	assertNil(t, podcast.PodcastFunding)
+	assertStr(t, "", podcast.ITunesType)
+	assertStr(t, "", podcast.ITunesComplete)
+
+	// item fields
 	assertInt(t, 2, len(podcast.Items))
-	assertStr(t, "Test episode 1", podcast.Items[0].Title)
-	assertStr(t, "http://www.example.com/episode-1.mp3", podcast.Items[0].Enclosure.URL)
-	assertStr(t, "audio/mpeg", podcast.Items[0].Enclosure.Type)
-	assertInt(t, 1001, int(podcast.Items[0].Enclosure.Length))
-	assertStr(t, "12345-67890-abcdef", podcast.Items[0].GUID.Text)
-	assertStr(t, "Test episode 2", podcast.Items[1].Title)
+	item := podcast.Items[0]
+	item2 := podcast.Items[1]
+	assertStr(t, "Test episode 1", item.Title)
+	assertStr(t, "Test episode 2", item2.Title)
+	assertStr(t, "http://www.example.com/episode-1.mp3", item.Enclosure.URL)
+	assertStr(t, "audio/mpeg", item.Enclosure.Type)
+	assertInt(t, 1001, int(item.Enclosure.Length))
+	assertStr(t, "12345-67890-abcdef", item.GUID.Text)
+
+	// non-required item fields should be zero values
+	assertStr(t, "", item.Link)
+	assertStr(t, "", item.PubDate)
+	assertNil(t, item.Description)
+	assertStr(t, "", item.ITunesDuration)
+	assertNil(t, item.ITunesImage)
+	assertNil(t, item.ITunesExplicit)
+	assertInt(t, 0, len(item.PodcastTranscript))
+	assertStr(t, "", item.ITunesEpisode)
+	assertStr(t, "", item.ITunesSeason)
+	assertStr(t, "", item.ITunesBlock)
 }
 
 func TestParseFeed_AllFields(t *testing.T) {
@@ -57,6 +85,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 		t.Fatal(err)
 	}
 
+	// channel fields
 	assertNotNil(t, podcast)
 	assertStr(t, "http://www.example.com/feed", podcast.AtomLink.Href)
 	assertStr(t, "self", podcast.AtomLink.Rel)
@@ -82,6 +111,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "Serialised", podcast.ITunesType)
 	assertStr(t, "yes", podcast.ITunesComplete)
 
+	// item fields
 	assertInt(t, 1, len(podcast.Items))
 	item := podcast.Items[0]
 	assertStr(t, "Test episode 1", item.Title)
@@ -271,24 +301,35 @@ func boolPtr(b bool) *bool {
 
 // aim is for this library to have no dependencies, hence the assert funcs here
 func assertNotNil(t *testing.T, act any) {
-	if act == nil {
+	t.Helper()
+	if reflect.ValueOf(act).IsNil() {
 		t.Fatalf("expected '%+v' to not be nil", act)
 	}
 }
 
+func assertNil(t *testing.T, act any) {
+	t.Helper()
+	if !reflect.ValueOf(act).IsNil() {
+		t.Fatalf("expected '%+v' to be nil", act)
+	}
+}
+
 func assertStr(t *testing.T, exp string, act string) {
+	t.Helper()
 	if exp != act {
 		t.Fatalf("expected '%s', got '%s'", exp, act)
 	}
 }
 
 func assertBool(t *testing.T, exp bool, act bool) {
+	t.Helper()
 	if exp != act {
 		t.Fatalf("expected '%t', got '%t'", exp, act)
 	}
 }
 
 func assertInt(t *testing.T, exp int, act int) {
+	t.Helper()
 	if act != exp {
 		t.Fatalf("expected '%d', got '%d'", exp, act)
 	}
