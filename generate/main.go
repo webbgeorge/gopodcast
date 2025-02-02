@@ -148,7 +148,7 @@ func transformXMLTag(s string) string {
 	return strings.ReplaceAll(s, matches[1], fmt.Sprintf("%s %s", ns, matches[3]))
 }
 
-var ignoreTypes = []string{"string", "bool", "int", "int64", "byte", "xml.Name", "FlexBool"}
+var ignoreTypes = []string{"string", "bool", "int", "int64", "byte", "xml.Name", "Bool", "Time", "YesNo"}
 
 func newFType(inType string) string {
 	prefix := ""
