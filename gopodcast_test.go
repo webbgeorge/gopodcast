@@ -6,6 +6,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"path"
 	"reflect"
 	"strings"
 	"testing"
@@ -35,7 +36,7 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 	assertStr(t, "http://www.example.com/podcast-site", podcast.Link)
 	assertStr(t, "en", podcast.Language)
 	assertStr(t, "Test podcast description goes here", podcast.Description.Text)
-	assertBool(t, true, podcast.ITunesExplicit)
+	assertBool(t, true, bool(podcast.ITunesExplicit))
 	assertStr(t, "http://www.example.com/image.jpg", podcast.ITunesImage.Href)
 	assertInt(t, 1, len(podcast.ITunesCategory))
 	assertStr(t, "Comedy", podcast.ITunesCategory[0].Text)
@@ -97,7 +98,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "http://www.example.com/podcast-site", podcast.Link)
 	assertStr(t, "en", podcast.Language)
 	assertStr(t, "Test podcast description goes here", podcast.Description.Text)
-	assertBool(t, true, podcast.ITunesExplicit)
+	assertBool(t, true, bool(podcast.ITunesExplicit))
 	assertStr(t, "http://www.example.com/image.jpg", podcast.ITunesImage.Href)
 	assertInt(t, 2, len(podcast.ITunesCategory))
 	assertStr(t, "Comedy", podcast.ITunesCategory[0].Text)
@@ -127,7 +128,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "Episode test description", item.Description.Text)
 	assertStr(t, "1234", item.ITunesDuration)
 	assertStr(t, "http://www.example.com/ep-image.png", item.ITunesImage.Href)
-	assertBool(t, false, *item.ITunesExplicit)
+	assertBool(t, false, bool(*item.ITunesExplicit))
 	assertInt(t, 2, len(item.PodcastTranscript))
 	assertStr(t, "http://www.example.com/transcript-1-en.txt", item.PodcastTranscript[0].URL)
 	assertStr(t, "text/plain", item.PodcastTranscript[0].Type)
@@ -358,32 +359,65 @@ func TestParseFeedFromURL_SendsAuthCreds(t *testing.T) {
 	assertStr(t, "Basic dXNlcjE6cGFzc3dvcmQx", interceptTransport.authHeader)
 }
 
+// TestParseFeed_TopPodcasts tests the parser against many different real podcasts,
+// taken from the Apple charts.
+func TestParseFeed_TopPodcasts(t *testing.T) {
+	files, err := os.ReadDir("testdata/top-podcasts")
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	for _, file := range files {
+		if !file.Type().IsRegular() {
+			continue
+		}
+		t.Run(file.Name(), func(t *testing.T) {
+			parser := gopodcast.NewParser()
+			f, err := os.Open(path.Join("testdata/top-podcasts", file.Name()))
+			if err != nil {
+				t.Fatal(err)
+			}
+			podcast, err := parser.ParseFeed(f)
+			if err != nil {
+				t.Fatal(err)
+			}
+			checkRequiredFeedValuesPresent(t, podcast)
+		})
+	}
+}
+
+// checkRequiredFeedValuesPresent does some simple checks to make sure key
+// fields are present in a podcast feed. This is used for running the parser
+// tests across a large number of real podcast feeds.
+//
+// note that some podcast feeds don't include channel->link, enclosure->length,
+// or channel->atom:link despite these being required by the PSP spec, so we
+// don't test for them here.
 func checkRequiredFeedValuesPresent(t *testing.T, podcast *gopodcast.Podcast) {
 	// channel fields
 	assertNotNil(t, podcast)
-	assertStrNotEmpty(t, podcast.AtomLink.Href)
-	assertStrNotEmpty(t, podcast.AtomLink.Rel)
-	assertStrNotEmpty(t, podcast.AtomLink.Type)
 	assertStrNotEmpty(t, podcast.Title)
-	assertStrNotEmpty(t, podcast.Link)
 	assertStrNotEmpty(t, podcast.Language)
 	assertStrNotEmpty(t, podcast.Description.Text)
 	assertStrNotEmpty(t, podcast.ITunesImage.Href)
 	assertTrue(t, len(podcast.ITunesCategory) > 0)
 	assertStrNotEmpty(t, podcast.ITunesCategory[0].Text)
 
-	// item fields
 	assertTrue(t, len(podcast.Items) > 0)
-	item := podcast.Items[0]
+	// use the first episode, as some feeds publish the latest episode ahead
+	// of release time, without the audio file.
+	item := podcast.Items[len(podcast.Items)-1]
+
+	// item fields
 	assertStrNotEmpty(t, item.Title)
 	assertStrNotEmpty(t, item.Enclosure.URL)
 	assertStrNotEmpty(t, item.Enclosure.Type)
-	assertTrue(t, item.Enclosure.Length > 0)
 	assertStrNotEmpty(t, item.GUID.Text)
 }
 
-func boolPtr(b bool) *bool {
-	return &b
+func boolPtr(b bool) *gopodcast.FlexBool {
+	bb := gopodcast.FlexBool(b)
+	return &bb
 }
 
 // aim is for this library to have no dependencies, hence the assert funcs here

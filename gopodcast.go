@@ -35,7 +35,7 @@ type Podcast struct {
 	Link           string           `xml:"link"`
 	Language       string           `xml:"language"`
 	ITunesCategory []ITunesCategory `xml:"itunes:category"`
-	ITunesExplicit bool             `xml:"itunes:explicit"`
+	ITunesExplicit FlexBool         `xml:"itunes:explicit"`
 	ITunesImage    ITunesImage      `xml:"itunes:image"`
 
 	// PSP Recommended
@@ -105,7 +105,7 @@ type Item struct {
 	Description       *Description        `xml:"description,omitempty"`
 	ITunesDuration    string              `xml:"itunes:duration,omitempty"` // TODO custom marshaller
 	ITunesImage       *ITunesImage        `xml:"itunes:image,omitempty"`
-	ITunesExplicit    *bool               `xml:"itunes:explicit,omitempty"`
+	ITunesExplicit    *FlexBool           `xml:"itunes:explicit,omitempty"`
 	PodcastTranscript []PodcastTranscript `xml:"podcast:transcript,omitempty"`
 
 	// PSP Optional
@@ -125,8 +125,8 @@ type Enclosure struct {
 }
 
 type ItemGUID struct {
-	IsPermaLink *bool  `xml:"isPermaLink,attr,omitempty"`
-	Text        string `xml:",chardata"`
+	IsPermaLink *FlexBool `xml:"isPermaLink,attr,omitempty"`
+	Text        string    `xml:",chardata"`
 }
 
 type PodcastTranscript struct {

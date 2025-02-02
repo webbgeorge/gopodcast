@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/podcasting/includes/style/rss-style.css"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <itunes:type>serial</itunes:type>
+    <language>en-ca</language>
+    <title>The Con: Kaitlyn&apos;s Baby</title>
+    <link>https://www.cbc.ca/listen/cbc-podcasts</link>
+    <description>&lt;p&gt;Kaitlyn Braun, a pregnant young woman in crisis, takes dozens of birth workers through an escalating series of disasters – rape, baby loss, and even a coma. One by one, the doulas struggle to support her and grieve with her, and even save her life as they’re led down a distressing path. And then the truth comes out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In this six-part true crime series, Sarah Treleaven untangles a complex web of lies and deception to ask who Kaitlyn really is and why she did the things that she did. Cases like these puzzle legal experts and raise intricate moral and ethical questions. This is not your average con. Kaitlyn is not your usual scammer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kaitlyn&apos;s Baby is Season 2 of The Con — a podcast exposing the art of deception — from CBC and the BBC World Service. Season 1 - the critically acclaimed catfishing quest, Love, Janessa, launched in January 2023.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: The latest season of The Con contains references to medical emergencies, including baby loss. We also deal with sexual assault and there is some strong language.&lt;/strong&gt;&lt;/p&gt;</description>
+    <cbcListenUrl>https://www.cbc.ca/listen</cbcListenUrl>
+    <itunes:summary>&lt;p&gt;Kaitlyn Braun, a pregnant young woman in crisis, takes dozens of birth workers through an escalating series of disasters – rape, baby loss, and even a coma. One by one, the doulas struggle to support her and grieve with her, and even save her life as they’re led down a distressing path. And then the truth comes out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In this six-part true crime series, Sarah Treleaven untangles a complex web of lies and deception to ask who Kaitlyn really is and why she did the things that she did. Cases like these puzzle legal experts and raise intricate moral and ethical questions. This is not your average con. Kaitlyn is not your usual scammer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kaitlyn&apos;s Baby is Season 2 of The Con — a podcast exposing the art of deception — from CBC and the BBC World Service. Season 1 - the critically acclaimed catfishing quest, Love, Janessa, launched in January 2023.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: The latest season of The Con contains references to medical emergencies, including baby loss. We also deal with sexual assault and there is some strong language.&lt;/strong&gt;&lt;/p&gt;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>CBC</itunes:name>
+      <itunes:email>podcasting@cbc.ca</itunes:email>
+    </itunes:owner>
+    <copyright>Copyright © CBC 2025</copyright>
+    <itunes:category text="True Crime">
+    </itunes:category>
+      <itunes:author>CBC + BBC World Service</itunes:author>
+    <itunes:image href="https://www.cbc.ca/radio/podcasts/images/kaitlyn-promo.jpg"/>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <guid>lovejanessa-8cd4f739-926c-426f-8da3-3ce1347e6fe7</guid>
+      <title>Kaitlyn&apos;s Baby | Episode 3: Fifty doulas</title>
+      <itunes:title>Kaitlyn&apos;s Baby | Episode 3: Fifty doulas</itunes:title>
+      <description>&lt;p&gt;The doulas unite, determined to do what the police don’t seem to be doing: stopping Kaitlyn. Kate and Seanna connect with other doulas through social media, discovering they’ve all been duped by Kaitlyn. As they try to get Kaitlyn help, Seanna and her mentor Teri reach out to Kaitlyn’s family to find out more about her situation. They even get Kaitlyn on the phone, who admits she knows what she’s doing is wrong but says she doesn’t know how to stop. Meanwhile, more and more doulas come forward — from other parts of North America too&amp;nbsp;— to share similar stories of manipulation by Kaitlyn. Amy, another doula, calls the police for a wellness check on Kaitlyn, only to learn that law enforcement were already aware of Kaitlyn’s actions.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language, and references to baby loss and sexual behaviour.&lt;/strong&gt;&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;The doulas unite, determined to do what the police don’t seem to be doing: stopping Kaitlyn. Kate and Seanna connect with other doulas through social media, discovering they’ve all been duped by Kaitlyn. As they try to get Kaitlyn help, Seanna and her mentor Teri reach out to Kaitlyn’s family to find out more about her situation. They even get Kaitlyn on the phone, who admits she knows what she’s doing is wrong but says she doesn’t know how to stop. Meanwhile, more and more doulas come forward — from other parts of North America too&amp;nbsp;— to share similar stories of manipulation by Kaitlyn. Amy, another doula, calls the police for a wellness check on Kaitlyn, only to learn that law enforcement were already aware of Kaitlyn’s actions.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language, and references to baby loss and sexual behaviour.&lt;/strong&gt;&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;The doulas unite, determined to do what the police don’t seem to be doing: stopping Kaitlyn. Kate and Seanna connect with other doulas through social media, discovering they’ve all been duped by Kaitlyn. As they try to get Kaitlyn help, Seanna and her mentor Teri reach out to Kaitlyn’s family to find out more about her situation. They even get Kaitlyn on the phone, who admits she knows what she’s doing is wrong but says she doesn’t know how to stop. Meanwhile, more and more doulas come forward — from other parts of North America too&amp;nbsp;— to share similar stories of manipulation by Kaitlyn. Amy, another doula, calls the police for a wellness check on Kaitlyn, only to learn that law enforcement were already aware of Kaitlyn’s actions.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language, and references to baby loss and sexual behaviour.&lt;/strong&gt;&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 27 Jan 2025 20:40:00 EST</pubDate>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-ff2qod9S-20250127.mp3?ttag=season:2,episode:3" length="27183027"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-ff2qod9S-20250127.mp3?ttag=season:2,episode:3</contentLink>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>lovejanessa-1599e300-7177-4511-bd17-6765f7dc4377</guid>
+      <title>Kaitlyn&apos;s Baby | Episode 2: Pink flags</title>
+      <itunes:title>Kaitlyn&apos;s Baby | Pink flags</itunes:title>
+      <description>&lt;p&gt;Seanna is a new doula and excited to help her first client: Kaitlyn, 32 weeks pregnant, who reaches out online. Seanna goes to Kaitlyn’s home, assisting her through labour. But Seanna soon realizes that something doesn’t add up. Separately, another doula, Kate, also tends to Kaitlyn. Kaitlyn appears pregnant in person. Kate provides typical doula support — massages to help alleviate discomfort, and assisting her in and out of the shower. When Seanna convinces Kaitlyn it’s time to go to the hospital, Kaitlyn receives an ultrasound. The technician, to Seanna’s shock, reveals there’s no pregnancy; the only thing in her uterus is a contraceptive device. Seanna takes to social media to warn other doulas about Kaitlyn’s scam. When Kate gets the sense that something isn’t right, she searches social media and finds Seanna’s post about Kaitlyn’s fake pregnancy. The two connect and realise they had the same traumatic experience with Kaitlyn, and plan to expose Kaitlyn’s con to the wider birth worker community.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language and references to sexual abuse, sexual behaviour and baby loss.&lt;/strong&gt;&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Seanna is a new doula and excited to help her first client: Kaitlyn, 32 weeks pregnant, who reaches out online. Seanna goes to Kaitlyn’s home, assisting her through labour. But Seanna soon realizes that something doesn’t add up. Separately, another doula, Kate, also tends to Kaitlyn. Kaitlyn appears pregnant in person. Kate provides typical doula support — massages to help alleviate discomfort, and assisting her in and out of the shower. When Seanna convinces Kaitlyn it’s time to go to the hospital, Kaitlyn receives an ultrasound. The technician, to Seanna’s shock, reveals there’s no pregnancy; the only thing in her uterus is a contraceptive device. Seanna takes to social media to warn other doulas about Kaitlyn’s scam. When Kate gets the sense that something isn’t right, she searches social media and finds Seanna’s post about Kaitlyn’s fake pregnancy. The two connect and realise they had the same traumatic experience with Kaitlyn, and plan to expose Kaitlyn’s con to the wider birth worker community.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language and references to sexual abuse, sexual behaviour and baby loss.&lt;/strong&gt;&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Seanna is a new doula and excited to help her first client: Kaitlyn, 32 weeks pregnant, who reaches out online. Seanna goes to Kaitlyn’s home, assisting her through labour. But Seanna soon realizes that something doesn’t add up. Separately, another doula, Kate, also tends to Kaitlyn. Kaitlyn appears pregnant in person. Kate provides typical doula support — massages to help alleviate discomfort, and assisting her in and out of the shower. When Seanna convinces Kaitlyn it’s time to go to the hospital, Kaitlyn receives an ultrasound. The technician, to Seanna’s shock, reveals there’s no pregnancy; the only thing in her uterus is a contraceptive device. Seanna takes to social media to warn other doulas about Kaitlyn’s scam. When Kate gets the sense that something isn’t right, she searches social media and finds Seanna’s post about Kaitlyn’s fake pregnancy. The two connect and realise they had the same traumatic experience with Kaitlyn, and plan to expose Kaitlyn’s con to the wider birth worker community.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains strong language and references to sexual abuse, sexual behaviour and baby loss.&lt;/strong&gt;&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 20 Jan 2025 20:40:00 EST</pubDate>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-nIHdt8bb-20250120.mp3?ttag=season:2,episode:2" length="28438713"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-nIHdt8bb-20250120.mp3?ttag=season:2,episode:2</contentLink>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>lovejanessa-e8a3ef8f-777e-415d-8324-10c3ce0c6c25</guid>
+      <title>Kaitlyn&apos;s Baby | Episode 1: The barking dog</title>
+      <itunes:title>Kaitlyn&apos;s Baby: The barking dog</itunes:title>
+      <description>&lt;p&gt;Amy, a seasoned doula, is bedridden due to illness when she receives a call from fellow doula Katie to assist a client, Kaitlyn, over the phone. Kaitlyn is pregnant as a result of sexual assault and has just learned her baby will be stillborn. Over the next 10 days, Amy and Katie are swept into Kaitlyn&apos;s escalating crises — bleeding disorders, a hysterectomy, cancer, and seemingly predatory doctors — while supporting her emotionally, over the phone. Despite exhaustion and their own trauma, they unquestioningly focus on Kaitlyn&apos;s needs. However, when Amy’s girlfriend points out strange details in Kaitlyn&apos;s story, alarm bells ring. A dog barks during a call where Kaitlyn claims she’s in the hospital, and photos Kaitlyn sent of her stillborn are traced back to Wikipedia. Something isn&apos;t right.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains references to medical emergencies, including baby loss. We also deal with sexual assault and there is some strong language.&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Amy, a seasoned doula, is bedridden due to illness when she receives a call from fellow doula Katie to assist a client, Kaitlyn, over the phone. Kaitlyn is pregnant as a result of sexual assault and has just learned her baby will be stillborn. Over the next 10 days, Amy and Katie are swept into Kaitlyn&apos;s escalating crises — bleeding disorders, a hysterectomy, cancer, and seemingly predatory doctors — while supporting her emotionally, over the phone. Despite exhaustion and their own trauma, they unquestioningly focus on Kaitlyn&apos;s needs. However, when Amy’s girlfriend points out strange details in Kaitlyn&apos;s story, alarm bells ring. A dog barks during a call where Kaitlyn claims she’s in the hospital, and photos Kaitlyn sent of her stillborn are traced back to Wikipedia. Something isn&apos;t right.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains references to medical emergencies, including baby loss. We also deal with sexual assault and there is some strong language.&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Amy, a seasoned doula, is bedridden due to illness when she receives a call from fellow doula Katie to assist a client, Kaitlyn, over the phone. Kaitlyn is pregnant as a result of sexual assault and has just learned her baby will be stillborn. Over the next 10 days, Amy and Katie are swept into Kaitlyn&apos;s escalating crises — bleeding disorders, a hysterectomy, cancer, and seemingly predatory doctors — while supporting her emotionally, over the phone. Despite exhaustion and their own trauma, they unquestioningly focus on Kaitlyn&apos;s needs. However, when Amy’s girlfriend points out strange details in Kaitlyn&apos;s story, alarm bells ring. A dog barks during a call where Kaitlyn claims she’s in the hospital, and photos Kaitlyn sent of her stillborn are traced back to Wikipedia. Something isn&apos;t right.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Content warning: This episode contains references to medical emergencies, including baby loss. We also deal with sexual assault and there is some strong language.&amp;nbsp; &lt;/strong&gt;&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 13 Jan 2025 20:40:00 EST</pubDate>
+      <itunes:duration>00:38:47</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-pGbQpbtQ-20250113.mp3?ttag=season:2,episode:1" length="38705125"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-pGbQpbtQ-20250113.mp3?ttag=season:2,episode:1</contentLink>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>lovejanessa-d8f32a35-c166-4d13-8af5-82520221a95d</guid>
+      <title>Introducing The Con: Kaitlyn’s Baby</title>
+      <itunes:title>Introducing The Con: Kaitlyn’s Baby</itunes:title>
+      <description>&lt;p&gt;Kaitlyn Braun, a young woman in crisis, took dozens of doulas through an escalating series of disasters—pregnancy loss, rape, and even a coma. They struggled to help her, grieve with her, and even save her life. And then the truth came out. The Con: Kaitlyn’s Baby is hosted by Sarah Treleaven, launching Jan. 14, 2025.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Con is a podcast exposing the art of deception from CBC and BBC World Service. Love, Janessa — the critically acclaimed catfishing quest – is now Season 1 of The Con.&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Kaitlyn Braun, a young woman in crisis, took dozens of doulas through an escalating series of disasters—pregnancy loss, rape, and even a coma. They struggled to help her, grieve with her, and even save her life. And then the truth came out. The Con: Kaitlyn’s Baby is hosted by Sarah Treleaven, launching Jan. 14, 2025.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Con is a podcast exposing the art of deception from CBC and BBC World Service. Love, Janessa — the critically acclaimed catfishing quest – is now Season 1 of The Con.&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Kaitlyn Braun, a young woman in crisis, took dozens of doulas through an escalating series of disasters—pregnancy loss, rape, and even a coma. They struggled to help her, grieve with her, and even save her life. And then the truth came out. The Con: Kaitlyn’s Baby is hosted by Sarah Treleaven, launching Jan. 14, 2025.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The Con is a podcast exposing the art of deception from CBC and BBC World Service. Love, Janessa — the critically acclaimed catfishing quest – is now Season 1 of The Con.&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 16 Dec 2024 00:10:00 EST</pubDate>
+      <itunes:duration>00:03:08</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-nJ5jDZIC-20241216.mp3?ttag=season:2" length="4471842"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-nJ5jDZIC-20241216.mp3?ttag=season:2</contentLink>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+    <item>
+      <guid>lovejanessa-f307633d-da89-4d7d-88d2-770c7fd5abb6</guid>
+      <title>Love, Janessa | Episode 7: Fantasy Meets Reality</title>
+      <itunes:title>Love, Janessa: Fantasy Meets Reality</itunes:title>
+      <description>&lt;p&gt;When the fish met the bait. Roberto has a broken heart and lost thousands of dollars to scammers. Vanessa had her images stolen by scammers and her life fell apart. An emotional finale. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;When the fish met the bait. Roberto has a broken heart and lost thousands of dollars to scammers. Vanessa had her images stolen by scammers and her life fell apart. An emotional finale. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;When the fish met the bait. Roberto has a broken heart and lost thousands of dollars to scammers. Vanessa had her images stolen by scammers and her life fell apart. An emotional finale. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 06 Mar 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-rYcLIttK-20230303.mp3?ttag=season:1,episode:7" length="31162581"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-rYcLIttK-20230303.mp3?ttag=season:1,episode:7</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-eea683f4-2717-402d-947a-dbcd6b801e8b</guid>
+      <title>Love, Janessa | Episode 6: Love, Vanessa</title>
+      <itunes:title>Love, Janessa: Love, Vanessa</itunes:title>
+      <description>&lt;p&gt;Her real name is Vanessa. Her model name is Janessa Brazil. Where does Janessa end and Vanessa begin? Vanessa tells her story and reveals the human cost of being the bait in catfishing schemes around the world. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Her real name is Vanessa. Her model name is Janessa Brazil. Where does Janessa end and Vanessa begin? Vanessa tells her story and reveals the human cost of being the bait in catfishing schemes around the world. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Her real name is Vanessa. Her model name is Janessa Brazil. Where does Janessa end and Vanessa begin? Vanessa tells her story and reveals the human cost of being the bait in catfishing schemes around the world. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 27 Feb 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-S0pDUiRf-20230224.mp3?ttag=season:1,episode:6" length="39182342"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-S0pDUiRf-20230224.mp3?ttag=season:1,episode:6</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-5de9750f-0e26-40c0-ba32-80bc36b4141f</guid>
+      <title>Love, Janessa | Episode 5: Bubba</title>
+      <itunes:title>Love, Janessa: Bubba</itunes:title>
+      <description>&lt;p&gt;“I&apos;m an offensive person.” Can a shock jock radio talk show host help us find Janessa Brazil? Meet Bubba the Love Sponge Clem. Bubba and Janessa used to host his show together and they were even housemates. Did they talk about romance scammers using her images? And does he know where Janessa is now? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;“I&apos;m an offensive person.” Can a shock jock radio talk show host help us find Janessa Brazil? Meet Bubba the Love Sponge Clem. Bubba and Janessa used to host his show together and they were even housemates. Did they talk about romance scammers using her images? And does he know where Janessa is now? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;“I&apos;m an offensive person.” Can a shock jock radio talk show host help us find Janessa Brazil? Meet Bubba the Love Sponge Clem. Bubba and Janessa used to host his show together and they were even housemates. Did they talk about romance scammers using her images? And does he know where Janessa is now? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 20 Feb 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-oV7iUu8A-20230217.mp3?ttag=season:1,episode:5" length="27449153"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-oV7iUu8A-20230217.mp3?ttag=season:1,episode:5</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-a9f9b9e9-f9e2-477e-a67e-274aeeb5027e</guid>
+      <title>Love, Janessa | Episode 4: Helen of Troy</title>
+      <itunes:title>Love, Janessa: Helen of Troy</itunes:title>
+      <description>&lt;p&gt;Where is Janessa Brazil? She seems to have vanished. Then, she turns up somewhere unexpected. Is that really Janessa on a radio show, with the wife of a scam victim? Meanwhile, Hannah discovers that justice is hard to come by. Can victims of romance fraud even get their money back? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Where is Janessa Brazil? She seems to have vanished. Then, she turns up somewhere unexpected. Is that really Janessa on a radio show, with the wife of a scam victim? Meanwhile, Hannah discovers that justice is hard to come by. Can victims of romance fraud even get their money back? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Where is Janessa Brazil? She seems to have vanished. Then, she turns up somewhere unexpected. Is that really Janessa on a radio show, with the wife of a scam victim? Meanwhile, Hannah discovers that justice is hard to come by. Can victims of romance fraud even get their money back? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 13 Feb 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-1kTOjv7U-20230210.mp3?ttag=season:1,episode:4" length="30229841"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-1kTOjv7U-20230210.mp3?ttag=season:1,episode:4</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-f96861bd-ae47-44fc-b636-6a220c731808</guid>
+      <title>Love, Janessa | Episode 3: Meet The Boys</title>
+      <itunes:title>Love, Janessa: Meet The Boys</itunes:title>
+      <description>&lt;p&gt;Tracking down scammers – how and why do they do it? One tells host Hannah Ajala: “I always feel bad”. Researchers estimate half of global romance scams originate in West Africa. In Ghana, there are the Sakawa Boys. The conning process can involve staying up late, chatting on the phone… building trust and deepening the connection - a bit like a real relationship. It takes time to fall “in love”. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Tracking down scammers – how and why do they do it? One tells host Hannah Ajala: “I always feel bad”. Researchers estimate half of global romance scams originate in West Africa. In Ghana, there are the Sakawa Boys. The conning process can involve staying up late, chatting on the phone… building trust and deepening the connection - a bit like a real relationship. It takes time to fall “in love”. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Tracking down scammers – how and why do they do it? One tells host Hannah Ajala: “I always feel bad”. Researchers estimate half of global romance scams originate in West Africa. In Ghana, there are the Sakawa Boys. The conning process can involve staying up late, chatting on the phone… building trust and deepening the connection - a bit like a real relationship. It takes time to fall “in love”. Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 06 Feb 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:40:01</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-pcz4Q8dG-20230203.mp3?ttag=season:1,episode:3" length="39885129"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-pcz4Q8dG-20230203.mp3?ttag=season:1,episode:3</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-1abf79e4-c648-4e95-9e47-01f13eb1af70</guid>
+      <title>Love, Janessa | Episode 2: The Big Fish</title>
+      <itunes:title>Love, Janessa: The Big Fish</itunes:title>
+      <description>&lt;p&gt;Roberto is in love. Without ever seeing her or talking to her, he thinks he falls deeply for Janessa. He sends thousands of dollars and begs her to leave the adult entertainment world. Everyone tells the Italian sustainable farmer that he’s being scammed. Then why is Janessa coming to meet him at an airport in Europe? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;Roberto is in love. Without ever seeing her or talking to her, he thinks he falls deeply for Janessa. He sends thousands of dollars and begs her to leave the adult entertainment world. Everyone tells the Italian sustainable farmer that he’s being scammed. Then why is Janessa coming to meet him at an airport in Europe? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Roberto is in love. Without ever seeing her or talking to her, he thinks he falls deeply for Janessa. He sends thousands of dollars and begs her to leave the adult entertainment world. Everyone tells the Italian sustainable farmer that he’s being scammed. Then why is Janessa coming to meet him at an airport in Europe? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 30 Jan 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:40:00</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-1fTP2kRf-20230127.mp3?ttag=season:1,episode:2" length="39867041"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-1fTP2kRf-20230127.mp3?ttag=season:1,episode:2</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-74becb60-c54c-43a3-8cad-8f11ad524d76</guid>
+      <title>Love, Janessa | Episode 1: From My World to Yours</title>
+      <itunes:title>Love, Janessa: From My World To Yours</itunes:title>
+      <description>&lt;p&gt;New Year’s Eve. Simon receives a message from a beautiful stranger, named Shirley: “Greetings…from my world to yours.” A digital flirtation begins. Then Shirley needs cash – fast. Shirley’s photo is actually adult entertainment “cam girl” Janessa Brazil and many accounts are using her image to lure victims. Who is Janessa? Has she any idea that she’s the bait in worldwide catfishing schemes? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</description>
+      <itunes:subtitle>&lt;p&gt;New Year’s Eve. Simon receives a message from a beautiful stranger, named Shirley: “Greetings…from my world to yours.” A digital flirtation begins. Then Shirley needs cash – fast. Shirley’s photo is actually adult entertainment “cam girl” Janessa Brazil and many accounts are using her image to lure victims. Who is Janessa? Has she any idea that she’s the bait in worldwide catfishing schemes? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;New Year’s Eve. Simon receives a message from a beautiful stranger, named Shirley: “Greetings…from my world to yours.” A digital flirtation begins. Then Shirley needs cash – fast. Shirley’s photo is actually adult entertainment “cam girl” Janessa Brazil and many accounts are using her image to lure victims. Who is Janessa? Has she any idea that she’s the bait in worldwide catfishing schemes? Please note, this series contains adult themes and strong language. For transcripts of this series, please visit: https://www.cbc.ca/radio/podcastnews/love-janessa-transcripts-listen-1.6770736&lt;/p&gt;</itunes:summary>
+      <pubDate>Mon, 23 Jan 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:36:09</itunes:duration>
+      <itunes:explicit>Yes</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-LYjEisb4-20230120.mp3?ttag=season:1,episode:1" length="36170079"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-LYjEisb4-20230120.mp3?ttag=season:1,episode:1</contentLink>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.cbc.ca/radio/podcasts/images/episodeimages/Janessa-TheCon.jpg" />
+    </item>
+    <item>
+      <guid>lovejanessa-a6edf07e-cc52-4d86-883d-cdfe424a3c53</guid>
+      <title>Introducing “Love, Janessa”</title>
+      <itunes:title>Introducing “Love, Janessa”</itunes:title>
+      <description>“I love her. I just love her!” You meet someone online. It turns out many others think they have fallen for the same person. Introducing the search for the unwitting face of a digital con. With host, Hannah Ajala. Launching 23 January 2023.
+
+Audio for this trailer was updated on February 8, 2023.</description>
+      <itunes:subtitle>“I love her. I just love her!” You meet someone online. It turns out many others think they have fallen for the same person. Introducing the search for the unwitting face of a digital con. With host, Hannah Ajala. Launching 23 January 2023.
+
+Audio for this trailer was updated on February 8, 2023.</itunes:subtitle>
+      <itunes:summary>“I love her. I just love her!” You meet someone online. It turns out many others think they have fallen for the same person. Introducing the search for the unwitting face of a digital con. With host, Hannah Ajala. Launching 23 January 2023.
+
+Audio for this trailer was updated on February 8, 2023.</itunes:summary>
+      <pubDate>Wed, 11 Jan 2023 00:40:00 EST</pubDate>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-rXwIpzBf-20230109.mp3" length="3542024"
+        type="audio/mpeg" />
+      <contentLink>https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_LOVEJANESSA_P/media/lovejanessa/lovejanessa-rXwIpzBf-20230109.mp3</contentLink>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

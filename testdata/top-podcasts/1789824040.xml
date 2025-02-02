@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>Mad, Sad and Bad with Paloma Faith</title>
+
+				<link>https://shows.acast.com/mad-sad-and-bad</link>
+
+				<atom:link href="https://feeds.acast.com/public/shows/678163642d4090d8afa2a087" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>JamPot</copyright>
+
+				<itunes:keywords/>
+
+				<itunes:author>JamPot Productions</itunes:author>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[<p>Paloma Faith has had plenty of moments in her life when she's felt mad, sad or bad - or been told that's what she's being. But do these words mean the same for everyone? What does it mean if someone says you're mad: that you're angry? Unstable? Insane? Or perhaps just different... Could those words be liberating, therapeutic or even transformational?</p><br><p>To find out more, Paloma invites an array of actors, comedians, musicians and thinkers into her home to reflect on times where they've felt mad, sad, bad - and even glad - what they've understood and learnt from these experiences too.</p><br><p>This podcast takes us into Paloma's world, with friends and family popping in occasionally - come for the chaos; stay for the conversation!</p><br><p><strong>New Episodes every Tuesday </strong></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Paloma Faith has had plenty of moments in her life when she's felt mad, sad or bad - or been told that's what she's being. But do these words mean the same for everyone? What does it mean if someone says you're mad: that you're angry? Unstable? Insane? Or perhaps just different... Could those words be liberating, therapeutic or even transformational?</p><br><p>To find out more, Paloma invites an array of actors, comedians, musicians and thinkers into her home to reflect on times where they've felt mad, sad, bad - and even glad - what they've understood and learnt from these experiences too.</p><br><p>This podcast takes us into Paloma's world, with friends and family popping in occasionally - come for the chaos; stay for the conversation!</p><br><p><strong>New Episodes every Tuesday </strong></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>true</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>JamPot</itunes:name>
+					<itunes:email>info@jampotproductions.co.uk</itunes:email>
+				</itunes:owner>
+
+				<acast:showId>678163642d4090d8afa2a087</acast:showId>
+
+				<acast:showUrl>mad-sad-and-bad</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+				<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvIVTbpPmT2nsdxWg8d8P+DdCAqDWVQZ8x4549C8O7mMiN4GNW2v5sb/yaKSrWESQlchepnpqYRe5pbbMe3OcRag=]]></acast:settings>
+
+        <acast:network id="3b460bde-62df-e4bd-0646-da0cc53b1b42" slug="bigside-productions"><![CDATA[Bigside Productions]]></acast:network>
+
+				
+
+				<itunes:type>episodic</itunes:type>
+    
+					<itunes:image href="https://assets.pippa.io/shows/678163642d4090d8afa2a087/1736883127504-56c98443-cd3e-4271-a92a-21e6a754c20c.jpeg"/>
+					<image>
+						<url>https://assets.pippa.io/shows/678163642d4090d8afa2a087/1736883127504-56c98443-cd3e-4271-a92a-21e6a754c20c.jpeg</url>
+						<link>https://shows.acast.com/mad-sad-and-bad</link>
+						<title>Mad, Sad and Bad with Paloma Faith</title>
+					</image>
+
+					
+
+
+				<item>
+						<title>Alan Carr: I Use Humour As A Shield</title>
+
+						<itunes:title>Alan Carr: I Use Humour As A Shield</itunes:title>
+
+						<pubDate>Tue, 28 Jan 2025 00:03:00 GMT</pubDate>
+
+						<itunes:duration>39:18</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/678163642d4090d8afa2a087/e/6797a13a673aa382e1e3f459/media.mp3" length="682702630" type="audio/mpeg"/>
+						<guid isPermaLink="false">6797a13a673aa382e1e3f459</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/mad-sad-and-bad/episodes/alan-carr-i-use-humour-as-a-shield</link>
+
+						<acast:episodeId>6797a13a673aa382e1e3f459</acast:episodeId>
+						<acast:showId>678163642d4090d8afa2a087</acast:showId>
+
+						<acast:episodeUrl>alan-carr-i-use-humour-as-a-shield</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fhqYdRqrvGtLVxH7dR094PApL4yimLRSB8x1EtgtHHRPgXjslKwj4ZUuOs7Bt3sx7HLyyF9toopHbKR+cH7f6MQVv1OdCMAuaUrjHDdKSVJeQvrF6tCtAmFZxfMQ2GxdrMhJ+bH/zIAeFCyHiyfwk9iVyz8uWQ653JWuMCvJ9GTXqngUElIhd2h/0dqQlrBQKDBsIk2ukenyVoE3oB+sMOv3hykZrUsLGxzPiqetHBt9QcgC3qdAT8KG05f3yh4RWC3yuz50erOi4+2K+5NpZ7Tw==]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/678163642d4090d8afa2a087/1738001931820-36b6f6fd-e9b4-4ce9-8192-1abe87a12257.jpeg"/>
+						<description><![CDATA[<p>Alan Carr has been a great friend of mine for years so I was delighted when he said he'd be my first ever guest on Mad, Sad and Bad!</p><br><p>Anyone who's ever seen or met Alan will know he has a magnetic presence and is a true entertainer. He's one of the funniest people I know, but I was excited to speak to him and go beyond the funny man and delve into a more serious side of Alan... We speak about the grief of losing a pet and exchange some (quite mad) stories of dating on the other side of divorce. He also shares the worst thing he's ever done, and I don't mind telling you, my jaw dropped...</p><br><p>And as much as we get a little serious at times, this was still a very funny conversation!</p><p>—</p><p>Find us on: <a href="https://www.instagram.com/madsadbadpodcast/" rel="noopener noreferrer" target="_blank">Instagram</a>&nbsp;/&nbsp;<a href="https://www.tiktok.com/@madsadbadpodcast" rel="noopener noreferrer" target="_blank">TikTok</a>&nbsp;/&nbsp;<a href="https://www.youtube.com/@MadSadBadPodcast " rel="noopener noreferrer" target="_blank">YouTube</a></p><p>—</p><p>Credits:</p><p>Producer: Jemima Rathbone</p><p>Assistant Producer: Magda Cassidy</p><p>Edit Producer: Pippa Brown</p><p>Editor: Shane O'Byrne</p><p>Video: Jake Ji &amp; Grisha Nikolsky</p><p>Video Editor: Joel Sommazzi</p><p>Original music: BUTCH PIXY</p><p>Social Media: Laura Coughlan</p><p>Exec Producer: Jemima Rathbone</p><p>Exec Producers for Idle Industries: Dave Granger &amp; Will Macdonald</p><p>Senior Exec Producer: Holly Newson</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Alan Carr has been a great friend of mine for years so I was delighted when he said he'd be my first ever guest on Mad, Sad and Bad!</p><br><p>Anyone who's ever seen or met Alan will know he has a magnetic presence and is a true entertainer. He's one of the funniest people I know, but I was excited to speak to him and go beyond the funny man and delve into a more serious side of Alan... We speak about the grief of losing a pet and exchange some (quite mad) stories of dating on the other side of divorce. He also shares the worst thing he's ever done, and I don't mind telling you, my jaw dropped...</p><br><p>And as much as we get a little serious at times, this was still a very funny conversation!</p><p>—</p><p>Find us on: <a href="https://www.instagram.com/madsadbadpodcast/" rel="noopener noreferrer" target="_blank">Instagram</a>&nbsp;/&nbsp;<a href="https://www.tiktok.com/@madsadbadpodcast" rel="noopener noreferrer" target="_blank">TikTok</a>&nbsp;/&nbsp;<a href="https://www.youtube.com/@MadSadBadPodcast " rel="noopener noreferrer" target="_blank">YouTube</a></p><p>—</p><p>Credits:</p><p>Producer: Jemima Rathbone</p><p>Assistant Producer: Magda Cassidy</p><p>Edit Producer: Pippa Brown</p><p>Editor: Shane O'Byrne</p><p>Video: Jake Ji &amp; Grisha Nikolsky</p><p>Video Editor: Joel Sommazzi</p><p>Original music: BUTCH PIXY</p><p>Social Media: Laura Coughlan</p><p>Exec Producer: Jemima Rathbone</p><p>Exec Producers for Idle Industries: Dave Granger &amp; Will Macdonald</p><p>Senior Exec Producer: Holly Newson</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title><![CDATA[Introducing... Mad, Sad & Bad with Paloma Faith]]></title>
+
+						<itunes:title><![CDATA[Introducing... Mad, Sad & Bad with Paloma Faith]]></itunes:title>
+
+						<pubDate>Tue, 21 Jan 2025 00:07:00 GMT</pubDate>
+
+						<itunes:duration>1:20</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/678163642d4090d8afa2a087/e/678e9e15fc105e4d365c908d/media.mp3" length="23395204" type="audio/mpeg"/>
+						<guid isPermaLink="false">678e9e15fc105e4d365c908d</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/mad-sad-and-bad/episodes/introducing-mad-sad-bad-with-paloma-faith</link>
+
+						<acast:episodeId>678e9e15fc105e4d365c908d</acast:episodeId>
+						<acast:showId>678163642d4090d8afa2a087</acast:showId>
+
+						<acast:episodeUrl>introducing-mad-sad-bad-with-paloma-faith</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs1N6FI1KPYLp0Y32i1TKJRov4Rc1ZWp83uG4Lsxj8sj96M63hra6cKQKAjMpmFLpUv+f8ZnqF0s0qcg3QqIj84XVQoF5sVEWC0qGICv5bIi1KRujJH32G+22M3KP2gOuY]]></acast:settings>
+
+						
+
+						<itunes:episodeType>trailer</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/678163642d4090d8afa2a087/1737400021559-2e3f98fd-2b0b-4638-bcdf-e706fb91d058.jpeg"/>
+						<description><![CDATA[<p>Introducing Paloma Faith's brand new podcast, 'Mad, Sad &amp; Bad'</p><br><p>What does it mean if someone says you're mad? That you're angry? Unstable? Perhaps you're just going against the grain...? Paloma's had plenty of moments in her life when she's felt mad, sad and bad - or been told that's what she is - but what do those words actually mean? And are they always negative - could they actually be liberating, therapeutic or even transformational?</p><br><p>To find out what mad, sad and bad mean for different people, Paloma's inviting people into her home to discuss these loaded words and reflect on their lives and careers.</p><br><p>We also meet some characters from Paloma's life - friends and family dropping in. Welcome to Paloma's world! Come for the chaos; stay for the conversation.</p><br><p><strong>COMING: TUESDAY 28TH JANUARY 2025</strong></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Introducing Paloma Faith's brand new podcast, 'Mad, Sad &amp; Bad'</p><br><p>What does it mean if someone says you're mad? That you're angry? Unstable? Perhaps you're just going against the grain...? Paloma's had plenty of moments in her life when she's felt mad, sad and bad - or been told that's what she is - but what do those words actually mean? And are they always negative - could they actually be liberating, therapeutic or even transformational?</p><br><p>To find out what mad, sad and bad mean for different people, Paloma's inviting people into her home to discuss these loaded words and reflect on their lives and careers.</p><br><p>We also meet some characters from Paloma's life - friends and family dropping in. Welcome to Paloma's world! Come for the chaos; stay for the conversation.</p><br><p><strong>COMING: TUESDAY 28TH JANUARY 2025</strong></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+
+      <itunes:category text="Society &amp; Culture"/>
+			<itunes:category text="Health &amp; Fitness">
+					<itunes:category text="Mental Health"/>
+			</itunes:category>
+			<itunes:category text="Society &amp; Culture">
+					<itunes:category text="Personal Journals"/>
+			</itunes:category>
+    </channel>
+</rss>

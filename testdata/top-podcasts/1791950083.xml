@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>Stick to Rugby</title>
+
+				<link>https://shows.acast.com/stick-to-rugby-trailer-1</link>
+
+				<atom:link href="https://feeds.acast.com/public/shows/6790be01455ab42f9da8a8db" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>The Overlap Rugby</copyright>
+
+				<itunes:keywords>Rugby,Sport,Dallaglio,Six Nations,England Rugby,Wales Rugby,Scotland Rugby,Ireland Rugby,Stick to Football,Gary Neville,Premiership Rugby,Premiership,Champions Cup,Land Rover,Defender</itunes:keywords>
+
+				<itunes:author>The Overlap Rugby</itunes:author>
+
+				<itunes:subtitle>An Overlap Rugby original series brought to you by Defender</itunes:subtitle>
+
+				<itunes:summary><![CDATA[<p>🏉 Welcome to The Overlap Rugby! 🏉</p><br><p>This is Stick to Rugby, brought to you by Defender. </p><br><p>Join rugby legends Lawrence Dallaglio, David Flatman, Tom Shanklin, and Katy Daley-McLean as they share real stories, fresh perspectives, and dive into everything you love about the game.</p><br><p>We'll have legendary guests from ex-pros, to celebrity fans. This is your front-row seat to everything rugby - from unforgettable moments to untold stories. </p><br><p>📍 Available now wherever you get your podcasts and on <a href="https://studio.youtube.com/channel/UCwNHmDVhwGVdXbcyHzAKRAg" rel="noopener noreferrer" target="_blank">&nbsp;@TheOverlapRugby&nbsp;</a> YouTube channel.</p><br><p>FOLLOW US ON SOCIAL</p><p>-----------------------------------------------------------------------</p><p>Facebook: https://www.facebook.com/profile.php?id=61572587631576</p><p>Instagram: https://www.instagram.com/sticktorugby/</p><p>TikTok: https://www.tiktok.com/@sticktorugby</p><p>------------------------------------------------------------------------</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[<p>🏉 Welcome to The Overlap Rugby! 🏉</p><br><p>This is Stick to Rugby, brought to you by Defender. </p><br><p>Join rugby legends Lawrence Dallaglio, David Flatman, Tom Shanklin, and Katy Daley-McLean as they share real stories, fresh perspectives, and dive into everything you love about the game.</p><br><p>We'll have legendary guests from ex-pros, to celebrity fans. This is your front-row seat to everything rugby - from unforgettable moments to untold stories. </p><br><p>📍 Available now wherever you get your podcasts and on <a href="https://studio.youtube.com/channel/UCwNHmDVhwGVdXbcyHzAKRAg" rel="noopener noreferrer" target="_blank">&nbsp;@TheOverlapRugby&nbsp;</a> YouTube channel.</p><br><p>FOLLOW US ON SOCIAL</p><p>-----------------------------------------------------------------------</p><p>Facebook: https://www.facebook.com/profile.php?id=61572587631576</p><p>Instagram: https://www.instagram.com/sticktorugby/</p><p>TikTok: https://www.tiktok.com/@sticktorugby</p><p>------------------------------------------------------------------------</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>true</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>The Overlap Rugby</itunes:name>
+					<itunes:email>info+6790be01455ab42f9da8a8db@mg-eu.acast.com</itunes:email>
+				</itunes:owner>
+
+				<acast:showId>6790be01455ab42f9da8a8db</acast:showId>
+
+				<acast:showUrl>stick-to-rugby-trailer-1</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+				<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvIVTbpPmT2nsdxWg8d8P+DdCAqDWVQZ8x4549C8O7mMiN4GNW2v5sb/yaKSrWESQlchepnpqYRe5pbbMe3OcRag=]]></acast:settings>
+
+        <acast:network id="64f205a61f92860011236d76" slug="the-overlap"><![CDATA[The Overlap]]></acast:network>
+
+				
+
+				<itunes:type>episodic</itunes:type>
+    
+					<itunes:image href="https://assets.pippa.io/shows/6790be01455ab42f9da8a8db/1737548143014-1942e232-9b3e-4fb3-8fd4-9380846cc25c.jpeg"/>
+					<image>
+						<url>https://assets.pippa.io/shows/6790be01455ab42f9da8a8db/1737548143014-1942e232-9b3e-4fb3-8fd4-9380846cc25c.jpeg</url>
+						<link>https://shows.acast.com/stick-to-rugby-trailer-1</link>
+						<title>Stick to Rugby</title>
+					</image>
+
+					
+
+
+				<item>
+						<title>The First Ever Stick to Rugby with Martin Johnson!</title>
+
+						<itunes:title>The First Ever Stick to Rugby with Martin Johnson!</itunes:title>
+
+						<pubDate>Wed, 29 Jan 2025 05:00:00 GMT</pubDate>
+
+						<itunes:duration>1:07:02</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/6790be01455ab42f9da8a8db/e/679988baa7ace681d832d2ff/media.mp3" length="163008743" type="audio/mpeg"/>
+						<guid isPermaLink="false">679988baa7ace681d832d2ff</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://youtu.be/3tuj4lYMPXg</link>
+
+						<acast:episodeId>679988baa7ace681d832d2ff</acast:episodeId>
+						<acast:showId>6790be01455ab42f9da8a8db</acast:showId>
+
+						<acast:episodeUrl>the-first-ever-stick-to-rugby-with-martin-johnson</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcx2DKeqZRyqwKvkEWVboyh/7/iXE0jqEU3djAOkaGMdowO1FR7QUGUFClq4CekK3FGn+QQW7ByDm+tlPTg15JGelZKZmFXn0SE5BmSQ6jMCQ4H1rE5yY9ZlTLYNTgY4HmX7tpLIrxeIiU6mFbMgkllnPUfsjmuNOcE5XIbP6TV737Pzf1w7WAooZC56OMIvtH7DpJq/L2i95g3pZzkBNHUEC4FT+QuK6uHwAU5R7/kfONzlGX8iTT4sZpo3l/Q8q/1XqVjWEufR6lqxhZYhfHe]]></acast:settings>
+
+						<itunes:subtitle>An Overlap Rugby original series brought to you by Defender</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>1</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/6790be01455ab42f9da8a8db/1737548143014-1942e232-9b3e-4fb3-8fd4-9380846cc25c.jpeg"/>
+						<description><![CDATA[<p>The first-ever episode of Stick to Rugby, brought to you by Defender, kicks off with an all-star lineup as David Flatman, Lawrence Dallaglio, Katy Daley-McLean, and Tom Shanklin sit down with none other than Martin Johnson.</p><br><p>Flats opens the show with a deep dive into the weekend’s events, including his birthday celebrations and the best and worst gifts he received. The crew wastes no time getting into the biggest talking points in rugby, with Martin Johnson tackling a Truth or Lies showdown, answering long-standing myths and surprises from his career.</p><br><p>As the Six Nations approaches, the team debates England’s fly-half dilemma and how Wales will fare under their current setup. Martin reflects on England’s 2003 Grand Slam victory, revealing the emotional impact of the Fields of Athenry moment and addressing the infamous carpet controversy.</p><br><p>The conversation shifts to captaincy, as Martin recalls taking over from Dallaglio in 1999 and the challenges of leadership at the highest level. The debate heats up as the panel discusses Jamie George losing the England captaincy to Maro Itoje and how recent performances reflect on Steve Borthwick’s leadership choices.</p><br><p>With a Lions Tour year ahead, the pane debate whether 1997 was truly the best tour ever. Martin also reflects on his time as England coach, the challenges of managing player behaviour, and whether his coaching years have left a lasting impact on the national team.</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>The first-ever episode of Stick to Rugby, brought to you by Defender, kicks off with an all-star lineup as David Flatman, Lawrence Dallaglio, Katy Daley-McLean, and Tom Shanklin sit down with none other than Martin Johnson.</p><br><p>Flats opens the show with a deep dive into the weekend’s events, including his birthday celebrations and the best and worst gifts he received. The crew wastes no time getting into the biggest talking points in rugby, with Martin Johnson tackling a Truth or Lies showdown, answering long-standing myths and surprises from his career.</p><br><p>As the Six Nations approaches, the team debates England’s fly-half dilemma and how Wales will fare under their current setup. Martin reflects on England’s 2003 Grand Slam victory, revealing the emotional impact of the Fields of Athenry moment and addressing the infamous carpet controversy.</p><br><p>The conversation shifts to captaincy, as Martin recalls taking over from Dallaglio in 1999 and the challenges of leadership at the highest level. The debate heats up as the panel discusses Jamie George losing the England captaincy to Maro Itoje and how recent performances reflect on Steve Borthwick’s leadership choices.</p><br><p>With a Lions Tour year ahead, the pane debate whether 1997 was truly the best tour ever. Martin also reflects on his time as England coach, the challenges of managing player behaviour, and whether his coaching years have left a lasting impact on the national team.</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title><![CDATA[INTRODUCING: Stick to Rugby with Dallaglio, Flatman, Shanklin & Daley-McLean]]></title>
+
+						<itunes:title><![CDATA[INTRODUCING: Stick to Rugby with Dallaglio, Flatman, Shanklin & Daley-McLean]]></itunes:title>
+
+						<pubDate>Wed, 22 Jan 2025 11:00:00 GMT</pubDate>
+
+						<itunes:duration>1:29</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/6790be01455ab42f9da8a8db/e/6790c0917e5a4982474d1a8c/media.mp3" length="2429132" type="audio/mpeg"/>
+						<guid isPermaLink="false">6790c0917e5a4982474d1a8c</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://youtu.be/PzJz7fH-Dhk</link>
+
+						<acast:episodeId>6790c0917e5a4982474d1a8c</acast:episodeId>
+						<acast:showId>6790be01455ab42f9da8a8db</acast:showId>
+
+						<acast:episodeUrl>introducing-stick-to-rugby-with-dallaglio-flatman-shanklin-d</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe57Q24ekSkN8PugGDMYCg8UYbIGydypX3+ixe2TyYFmOqr/SFwvuM8CxEHCLo/mhtEf41xsm5WV2gvGBG5ycankKSeIrCAfbe6ICqOEYMbkmEnXtgRJIhghEtrupKkBlms]]></acast:settings>
+
+						<itunes:subtitle>An Overlap Rugby original series brought to you by Defender</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/6790be01455ab42f9da8a8db/1737548143014-1942e232-9b3e-4fb3-8fd4-9380846cc25c.jpeg"/>
+						<description><![CDATA[<p>🏉 Welcome to The Overlap Rugby! 🏉</p><br><p>We’re launching a brand-new channel with Stick to Rugby, brought to you by Defender. Join rugby legends Lawrence Dallaglio, David Flatman, Tom Shanklin, and Katy Daley-McLean as they share real stories, fresh perspectives, and dive into everything you love about the game.</p><br><p>We'll have legendary guests from ex-pros, to celebrity fans. This is your front-row seat for every kind of rugby fan - from unforgettable moments to untold stories. </p><br><p>📅 First episode launches January 29</p><p>📍 Available now wherever you get your podcasts and on <a href="https://studio.youtube.com/channel/UCwNHmDVhwGVdXbcyHzAKRAg" rel="noopener noreferrer" target="_blank">&nbsp;@TheOverlapRugby&nbsp;</a> YouTube channel</p><br><p>FOLLOW US ON SOCIAL</p><p>-----------------------------------------------------------------------</p><p>Facebook: https://www.facebook.com/profile.php?id=61572587631576</p><p>Instagram: https://www.instagram.com/sticktorugby/</p><p>TikTok: https://www.tiktok.com/@sticktorugby</p><p>------------------------------------------------------------------------</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>🏉 Welcome to The Overlap Rugby! 🏉</p><br><p>We’re launching a brand-new channel with Stick to Rugby, brought to you by Defender. Join rugby legends Lawrence Dallaglio, David Flatman, Tom Shanklin, and Katy Daley-McLean as they share real stories, fresh perspectives, and dive into everything you love about the game.</p><br><p>We'll have legendary guests from ex-pros, to celebrity fans. This is your front-row seat for every kind of rugby fan - from unforgettable moments to untold stories. </p><br><p>📅 First episode launches January 29</p><p>📍 Available now wherever you get your podcasts and on <a href="https://studio.youtube.com/channel/UCwNHmDVhwGVdXbcyHzAKRAg" rel="noopener noreferrer" target="_blank">&nbsp;@TheOverlapRugby&nbsp;</a> YouTube channel</p><br><p>FOLLOW US ON SOCIAL</p><p>-----------------------------------------------------------------------</p><p>Facebook: https://www.facebook.com/profile.php?id=61572587631576</p><p>Instagram: https://www.instagram.com/sticktorugby/</p><p>TikTok: https://www.tiktok.com/@sticktorugby</p><p>------------------------------------------------------------------------</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+
+      <itunes:category text="Sports"/>
+			<itunes:category text="Sports">
+					<itunes:category text="Rugby"/>
+			</itunes:category>
+      <itunes:category text="Comedy"/>
+    </channel>
+</rss>

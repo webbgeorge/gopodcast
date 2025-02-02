@@ -38,7 +38,7 @@ type xmlFixPodcast struct {
 	Link           string                 `xml:"link"`
 	Language       string                 `xml:"language"`
 	ITunesCategory []xmlFixITunesCategory `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd category"`
-	ITunesExplicit bool                   `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd explicit"`
+	ITunesExplicit FlexBool               `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd explicit"`
 	ITunesImage    xmlFixITunesImage      `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd image"`
 	PodcastLocked  string                 `xml:"https://podcastindex.org/namespace/1.0 locked,omitempty"`
 	PodcastGUID    string                 `xml:"https://podcastindex.org/namespace/1.0 guid,omitempty"`
@@ -185,7 +185,7 @@ type xmlFixItem struct {
 	Description       *xmlFixDescription        `xml:"description,omitempty"`
 	ITunesDuration    string                    `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd duration,omitempty"`
 	ITunesImage       *xmlFixITunesImage        `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd image,omitempty"`
-	ITunesExplicit    *bool                     `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd explicit,omitempty"`
+	ITunesExplicit    *FlexBool                 `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd explicit,omitempty"`
 	PodcastTranscript []xmlFixPodcastTranscript `xml:"https://podcastindex.org/namespace/1.0 transcript,omitempty"`
 	ITunesEpisode     string                    `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd episode,omitempty"`
 	ITunesSeason      string                    `xml:"http://www.itunes.com/dtds/podcast-1.0.dtd season,omitempty"`
@@ -240,8 +240,8 @@ func (s *xmlFixEnclosure) Translate() *Enclosure {
 }
 
 type xmlFixItemGUID struct {
-	IsPermaLink *bool  `xml:"isPermaLink,attr,omitempty"`
-	Text        string `xml:",chardata"`
+	IsPermaLink *FlexBool `xml:"isPermaLink,attr,omitempty"`
+	Text        string    `xml:",chardata"`
 }
 
 func (s *xmlFixItemGUID) Translate() *ItemGUID {

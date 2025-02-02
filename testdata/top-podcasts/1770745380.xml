@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>Strangers on a Bench</title>
+
+				<link>https://shows.acast.com/strangers-on-a-bench</link>
+
+				<atom:link href="https://feeds.acast.com/public/shows/66f5255eae48e0cfdb0b36bb" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>Tom Rosenthal</copyright>
+
+				<itunes:keywords>Strangers, Bench, Conversation,Park,Random</itunes:keywords>
+
+				<itunes:author>Tom Rosenthal</itunes:author>
+
+				<itunes:subtitle>Tom Rosenthal talks to random strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+				<itunes:summary><![CDATA[Have you ever walked past a mysterious stranger on a park bench and wondered about their lives? Tom Rosenthal (singer-songwriter by trade) has spent the last 6 months walking the many parks of London, approaching random bench-dwellers and asking if he can sit next to them and record their conversation. Every stranger remains anonymous, neither name or place of work is ever revealed (even to Tom himself), leading to greater openness, intimacy, and surprising revelations from the participants.&nbsp;<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[Have you ever walked past a mysterious stranger on a park bench and wondered about their lives? Tom Rosenthal (singer-songwriter by trade) has spent the last 6 months walking the many parks of London, approaching random bench-dwellers and asking if he can sit next to them and record their conversation. Every stranger remains anonymous, neither name or place of work is ever revealed (even to Tom himself), leading to greater openness, intimacy, and surprising revelations from the participants.&nbsp;<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>true</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Tom Rosenthal</itunes:name>
+					<itunes:email>info+66f5255eae48e0cfdb0b36bb@mg-eu.acast.com</itunes:email>
+				</itunes:owner>
+
+				<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+				<acast:showUrl>strangers-on-a-bench</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+				<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmccH38fUl6WBk0zd1jmKqMvBfiDew4BCK38/u1YuxHKNCZGkvX8UWH1HbgTuGiw4+9qAm341+8EIY2O7KmEDqBprMyhEhMeJIovB/eBOd/Gs7eN72hE6rOmpyz+9+S68CnrHYH9M1LVNhFQRy9DsapbciBYw/yclrItAbV7xxdMJ++Pc2QLC3H4N1AlYYfOe4GN8PDGToGatfnyP68nTLsA=]]></acast:settings>
+
+        
+
+				
+
+				<itunes:type>episodic</itunes:type>
+    
+					<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+					<image>
+						<url>https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg</url>
+						<link>https://shows.acast.com/strangers-on-a-bench</link>
+						<title>Strangers on a Bench</title>
+					</image>
+
+					
+
+
+				<item>
+						<title>EPISODE 20: Two Funerals and a Faulty Printer </title>
+
+						<itunes:title>EPISODE 20: Two Funerals and a Faulty Printer </itunes:title>
+
+						<pubDate>Mon, 27 Jan 2025 10:00:00 GMT</pubDate>
+
+						<itunes:duration>30:24</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/678e4c775c9549fc0002d047/media.mp3" length="350446812" type="audio/mpeg"/>
+						<guid isPermaLink="false">678e4c775c9549fc0002d047</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-20-aunties-and-funerals</link>
+
+						<acast:episodeId>678e4c775c9549fc0002d047</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-20-aunties-and-funerals</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL6iat+/ATtoinkJJhwPKPaeELGfXRgp/VNXoRuBqog3xU52IXdgHImdE7IUPZUtLi14F1APp8Cl53BHM5qSfDlb]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'God I Love a Funeral' by Katie Gregson-MacLeod</p><p>Stream it here : https://ffm.to/godiloveafuneral</p><p>---------------------------</p><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'God I Love a Funeral' by Katie Gregson-MacLeod</p><p>Stream it here : https://ffm.to/godiloveafuneral</p><p>---------------------------</p><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 19: Covid in Cambodia</title>
+
+						<itunes:title>EPISODE 19: Covid in Cambodia</itunes:title>
+
+						<pubDate>Mon, 20 Jan 2025 10:00:00 GMT</pubDate>
+
+						<itunes:duration>30:26</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/677fafd160db7f66da1186ec/media.mp3" length="350742036" type="audio/mpeg"/>
+						<guid isPermaLink="false">677fafd160db7f66da1186ec</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-19-covid-in-cambodia</link>
+
+						<acast:episodeId>677fafd160db7f66da1186ec</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-19-covid-in-cambodia</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5uSEIoYkJz6TlFK5oRB+k6hihaec/XuaJ4TujHIt+HgtAaU0w4AONQ8lDwdikeQ9rzXzX+HjRlflZoiKNEQ0+D]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Covid in Cambodia' by David Thomas Broughton</p><p>Stream it here : https://ffm.to/covidincambodia</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Covid in Cambodia' by David Thomas Broughton</p><p>Stream it here : https://ffm.to/covidincambodia</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 18: Snowy Arrivals and Father Figures</title>
+
+						<itunes:title>EPISODE 18: Snowy Arrivals and Father Figures</itunes:title>
+
+						<pubDate>Mon, 13 Jan 2025 10:00:21 GMT</pubDate>
+
+						<itunes:duration>31:54</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/677e9b7e3888e2bd7e28ded2/media.mp3" length="367658572" type="audio/mpeg"/>
+						<guid isPermaLink="false">677e9b7e3888e2bd7e28ded2</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-18-snow-in-the-city</link>
+
+						<acast:episodeId>677e9b7e3888e2bd7e28ded2</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-18-snow-in-the-city</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL74kEZzQ7vZPQ6WVBPx9xSoeQh/tlrgLBPVjrW11JXJW3nowgBqmBau8zVhxVs1hNfSbuUHfMXX3+m5PMP1hFAj]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Snow in the city' by Abimaro</p><p>Stream it here : https://ffm.to/snowinthecity</p><p>----------------------------------------------------------</p><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Snow in the city' by Abimaro</p><p>Stream it here : https://ffm.to/snowinthecity</p><p>----------------------------------------------------------</p><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 17: Cold Water and The Edge</title>
+
+						<itunes:title>EPISODE 17: Cold Water and The Edge</itunes:title>
+
+						<pubDate>Mon, 06 Jan 2025 10:00:40 GMT</pubDate>
+
+						<itunes:duration>26:51</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/67726c85310557bf4f6e0729/media.mp3" length="309446268" type="audio/mpeg"/>
+						<guid isPermaLink="false">67726c85310557bf4f6e0729</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-17-illegal-swimming-cold-water-and-the-edge</link>
+
+						<acast:episodeId>67726c85310557bf4f6e0729</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-17-illegal-swimming-cold-water-and-the-edge</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL770/mlzUuBu0FW+I4m925KPf5K1mFXkxdnwLT24dCM3bLPBxbJsCaDLHsXV9C8moxvf0521j7RFIReuffJUJUE]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>**Content Warning : This episode discusses suicide**</p><p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Between Times' by dodie</p><p>Stream it here : https://ffm.to/betweentimes</p><br><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>**Content Warning : This episode discusses suicide**</p><p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Between Times' by dodie</p><p>Stream it here : https://ffm.to/betweentimes</p><br><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 16: The Reluctant Flaneur</title>
+
+						<itunes:title>EPISODE 16: The Reluctant Flaneur</itunes:title>
+
+						<pubDate>Mon, 30 Dec 2024 10:00:39 GMT</pubDate>
+
+						<itunes:duration>30:32</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/676270ce6ba7599e645dafa0/media.mp3" length="351940860" type="audio/mpeg"/>
+						<guid isPermaLink="false">676270ce6ba7599e645dafa0</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-16-its-just-wandering-around</link>
+
+						<acast:episodeId>676270ce6ba7599e645dafa0</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-16-its-just-wandering-around</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL6GKhhO/VLNMY+EJAZRLWgpcm69KXy7zTAYq5vy1opWmzKUQ8IdOJOj6OqDMRpBrZ8UqRpP5/O0uB3CKJmjyBdL]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Monsieur Flaneur' by Caroline Chan</p><p>Stream it here : https://ffm.to/monsieurflaneur</p><p>-----------------------------------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Monsieur Flaneur' by Caroline Chan</p><p>Stream it here : https://ffm.to/monsieurflaneur</p><p>-----------------------------------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 15: Family Business</title>
+
+						<itunes:title>EPISODE 15: Family Business</itunes:title>
+
+						<pubDate>Mon, 23 Dec 2024 10:00:01 GMT</pubDate>
+
+						<itunes:duration>32:39</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/675ab66232aac2ceaba178f4/media.mp3" length="376343952" type="audio/mpeg"/>
+						<guid isPermaLink="false">675ab66232aac2ceaba178f4</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-15-family-business</link>
+
+						<acast:episodeId>675ab66232aac2ceaba178f4</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-15-family-business</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5Jn4LOVRAGIO2r9rwTTHHj8nH6lvEz3kIb7gh1rjWUJBHSqdQ5MVKUBlRB+Mj9j5i0R7PSLCULUx3dunBnmKWq]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Life Long Love' by Rachel Sermanni</p><p>Stream it here : https://ffm.to/lifelonglove</p><p>-------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Life Long Love' by Rachel Sermanni</p><p>Stream it here : https://ffm.to/lifelonglove</p><p>-------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 14: Mondays, Pedro, and Silence</title>
+
+						<itunes:title>EPISODE 14: Mondays, Pedro, and Silence</itunes:title>
+
+						<pubDate>Mon, 16 Dec 2024 10:00:38 GMT</pubDate>
+
+						<itunes:duration>35:02</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/67559bf699fbf63ced44775a/media.mp3" length="403893312" type="audio/mpeg"/>
+						<guid isPermaLink="false">67559bf699fbf63ced44775a</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-14-litter-picking-pedro-and-mondays</link>
+
+						<acast:episodeId>67559bf699fbf63ced44775a</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-14-litter-picking-pedro-and-mondays</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5lGvxeQhXAD0/dpL+bt9Hlh5RfPy/RTrIfAH/SubrhuF3Qmd6D228mDSLU6i/3HfyvTMVWH4E38+uBIWlZNaJL]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song by&nbsp;'What About Me?' by Rae Morris</p><p>Stream it here : https://ffm.to/whataboutmee</p><p>-------------------</p><br><p>Instagram :<a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank"> @strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song by&nbsp;'What About Me?' by Rae Morris</p><p>Stream it here : https://ffm.to/whataboutmee</p><p>-------------------</p><br><p>Instagram :<a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank"> @strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 13: Maybe I Need To Go Home</title>
+
+						<itunes:title>EPISODE 13: Maybe I Need To Go Home</itunes:title>
+
+						<pubDate>Mon, 09 Dec 2024 10:00:52 GMT</pubDate>
+
+						<itunes:duration>39:02</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/674968e63bd1d4df285254a4/media.mp3" length="449902404" type="audio/mpeg"/>
+						<guid isPermaLink="false">674968e63bd1d4df285254a4</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-13-maybe-i-need-to-go-home</link>
+
+						<acast:episodeId>674968e63bd1d4df285254a4</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-13-maybe-i-need-to-go-home</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5dQoG+OvxEG93+i2HgVcnzvw1x0qxa42U81f7HDr/Y719acTDTRt6X2q9ujCcYni1N/4f8Yr0NLDoSXOzVxPSB]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'The Poet' by Ezra Glatt</p><p>Stream it here : https://ffm.to/thepoet</p><p>-------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'The Poet' by Ezra Glatt</p><p>Stream it here : https://ffm.to/thepoet</p><p>-------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 12: Quiet Chainsaw Man</title>
+
+						<itunes:title>EPISODE 12: Quiet Chainsaw Man</itunes:title>
+
+						<pubDate>Mon, 02 Dec 2024 10:00:01 GMT</pubDate>
+
+						<itunes:duration>18:24</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/67364e982d729bcae0d66210/media.mp3" length="212175456" type="audio/mpeg"/>
+						<guid isPermaLink="false">67364e982d729bcae0d66210</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-12-quiet-chainsaw-man</link>
+
+						<acast:episodeId>67364e982d729bcae0d66210</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-12-quiet-chainsaw-man</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL4oGzJ+9g+6iv0ttxMyCDcvvzRBk/jcSqHP4Dwexd7XltXKhJC56fQzM1o4kHu5UOWh3f45/2XDFEMQpsutjlY6]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Miles and Inches' by Billie Marten</p><p>--------------</p><br><p>Instagram :<a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank"> @strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Miles and Inches' by Billie Marten</p><p>--------------</p><br><p>Instagram :<a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank"> @strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 11: If I Had a Boat</title>
+
+						<itunes:title>EPISODE 11: If I Had a Boat</itunes:title>
+
+						<pubDate>Mon, 25 Nov 2024 10:00:04 GMT</pubDate>
+
+						<itunes:duration>24:32</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/67361f0649465f45024f2168/media.mp3" length="282817424" type="audio/mpeg"/>
+						<guid isPermaLink="false">67361f0649465f45024f2168</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-11-if-i-had-a-boat</link>
+
+						<acast:episodeId>67361f0649465f45024f2168</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-11-if-i-had-a-boat</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5lK8kJ99d47IIR63rbi1xea8Uc5TdkOrEcLBFmLRoHlPs/Kvoi3R8IaOA8Yx/FgRfd/aLFLEPHTB0M13x5ECRR]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song 'If I Had a Boat' by Chris Brain</p><p>Stream it here : https://ffm.to/ifihadaboat</p><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!&nbsp;</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song 'If I Had a Boat' by Chris Brain</p><p>Stream it here : https://ffm.to/ifihadaboat</p><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 10: Shall We Roll Down the Hill?</title>
+
+						<itunes:title>EPISODE 10: Shall We Roll Down the Hill?</itunes:title>
+
+						<pubDate>Mon, 18 Nov 2024 10:00:15 GMT</pubDate>
+
+						<itunes:duration>23:45</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/672a70ee31f920f4df49f7ea/media.mp3" length="273795544" type="audio/mpeg"/>
+						<guid isPermaLink="false">672a70ee31f920f4df49f7ea</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/shall-we-roll-down-the-hill</link>
+
+						<acast:episodeId>672a70ee31f920f4df49f7ea</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>shall-we-roll-down-the-hill</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL7Vt27z5he3DrIEAeDX9uy6hxUhIbemc/lPhYFHkYGtHZQNpQHV23QilQ5g0pZmy11xjGrWxQmq1ljyqF0E7KJO]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Golden Now' by Will Cookson</p><p>Listen here : https://ffm.to/goldennow</p><p>--------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Golden Now' by Will Cookson</p><p>Listen here : https://ffm.to/goldennow</p><p>--------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 9: Deli Meets</title>
+
+						<itunes:title>EPISODE 9: Deli Meets</itunes:title>
+
+						<pubDate>Mon, 11 Nov 2024 10:00:54 GMT</pubDate>
+
+						<itunes:duration>27:52</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/6725038288da449c968c13f5/media.mp3" length="321178624" type="audio/mpeg"/>
+						<guid isPermaLink="false">6725038288da449c968c13f5</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-9-deli-meets</link>
+
+						<acast:episodeId>6725038288da449c968c13f5</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-9-deli-meets</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL6oYX8QykN9ZG7+bnsZE8g+4RTFRuWvG+XwjVA6QQq/UhOcaSKgWh9ZeL3y1nt76BcRXuxC7Uhub6cm0roehOaX]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Nice to Meet You' by Tom Odell</p><p>Stream it here : https://ffm.to/nicetomeetyou</p><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Nice to Meet You' by Tom Odell</p><p>Stream it here : https://ffm.to/nicetomeetyou</p><p>------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 8: Youngest of Six </title>
+
+						<itunes:title>EPISODE 8: Youngest of Six </itunes:title>
+
+						<pubDate>Mon, 04 Nov 2024 10:00:36 GMT</pubDate>
+
+						<itunes:duration>23:06</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/67192d3f90e4ac3e5a37fef6/media.mp3" length="266272000" type="audio/mpeg"/>
+						<guid isPermaLink="false">67192d3f90e4ac3e5a37fef6</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-8-youngest-of-six</link>
+
+						<acast:episodeId>67192d3f90e4ac3e5a37fef6</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-8-youngest-of-six</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL7/1wLaUF0k6ThzFzpxQ5B1rbWzE5sGK0OWRS9y844Js9Pzt1vr/x2UsdBdX8JOrIOySM8cJM1j2I3HypX6C+f7]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Everything I Need' by Maddie Ashman</p><p>Listen to it here : https://ffm.to/everythingineedsong</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Everything I Need' by Maddie Ashman</p><p>Listen to it here : https://ffm.to/everythingineedsong</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 7: The Disappearing Cyclist</title>
+
+						<itunes:title>EPISODE 7: The Disappearing Cyclist</itunes:title>
+
+						<pubDate>Mon, 28 Oct 2024 10:00:52 GMT</pubDate>
+
+						<itunes:duration>38:45</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/6717a74107c991f259013afe/media.mp3" length="446643108" type="audio/mpeg"/>
+						<guid isPermaLink="false">6717a74107c991f259013afe</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-7-the-disappearing-cyclist</link>
+
+						<acast:episodeId>6717a74107c991f259013afe</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-7-the-disappearing-cyclist</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5WD29q6ZP16/3jbZczjcpElfj//GQcuRs5UAeESwzsF4GPGuPwBKZz556DZsTFEHEIZdq/8O3qywTsFu9X+8XS]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Wooley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Yellow Fedora' by Hohnen Ford</p><p>Listen to it here : https://ffm.to/yellowfedora</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Wooley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton&nbsp;</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'Yellow Fedora' by Hohnen Ford</p><p>Listen to it here : https://ffm.to/yellowfedora</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 6: Love, Death, and Parisians</title>
+
+						<itunes:title>EPISODE 6: Love, Death, and Parisians</itunes:title>
+
+						<pubDate>Mon, 21 Oct 2024 09:00:15 GMT</pubDate>
+
+						<itunes:duration>29:22</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/6708f21ff7743dfe5224c979/media.mp3" length="338489376" type="audio/mpeg"/>
+						<guid isPermaLink="false">6708f21ff7743dfe5224c979</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-6-love-death-and-parisians</link>
+
+						<acast:episodeId>6708f21ff7743dfe5224c979</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-6-love-death-and-parisians</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL7Ir8JC0/5la36JTJ9KrI7Wq+ZrmlJcCN/eoW9l6R9eDOSGE5DncLEBASgRglP/MkFZIVgZQTh5KYeMx1UW3fZb]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'To Be Held' by Augusta</p><p>Listen to it here : https://ffm.to/tobeheld</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'To Be Held' by Augusta</p><p>Listen to it here : https://ffm.to/tobeheld</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title><![CDATA[EPISODE 5: Michael's Tree ]]></title>
+
+						<itunes:title><![CDATA[EPISODE 5: Michael's Tree ]]></itunes:title>
+
+						<pubDate>Mon, 14 Oct 2024 09:00:29 GMT</pubDate>
+
+						<itunes:duration>28:27</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/670796553ed3eba564458019/media.mp3" length="327917824" type="audio/mpeg"/>
+						<guid isPermaLink="false">670796553ed3eba564458019</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-5-michaels-tree</link>
+
+						<acast:episodeId>670796553ed3eba564458019</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-5-michaels-tree</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL66GrgbYfiyqDu4feV6Fb2LuKt+XKvphPGNegQgHm9Q0POm5oZe2u5oVpdgKVujAegNQ1upUD2Gu6CGB00jcxn1]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : Michael's Tree by Sammy Copley</p><p>Listen to it here : https://ffm.to/michaelstree</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : Michael's Tree by Sammy Copley</p><p>Listen to it here : https://ffm.to/michaelstree</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 4: Making Miniatures by the Sea</title>
+
+						<itunes:title>EPISODE 4: Making Miniatures by the Sea</itunes:title>
+
+						<pubDate>Mon, 07 Oct 2024 09:00:01 GMT</pubDate>
+
+						<itunes:duration>17:01</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/66fe80c3a7d676ab06bca68e/media.mp3" length="196231508" type="audio/mpeg"/>
+						<guid isPermaLink="false">66fe80c3a7d676ab06bca68e</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-4-making-miniatures-by-the-sea</link>
+
+						<acast:episodeId>66fe80c3a7d676ab06bca68e</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-4-making-miniatures-by-the-sea</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL5earn3tgP4TCDz54wKTjnMC6AC9iTmudbsjMppyy+9dGQf61GSO7e/8jETNWzK6zJVj4iCL4E7btnhrpQq+3nV]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'By The Ocean Side' by November Ultra</p><p>Listen here : https://ffm.to/bytheoceanside</p><p>-----------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : 'By The Ocean Side' by November Ultra</p><p>Listen here : https://ffm.to/bytheoceanside</p><p>-----------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 3: I Threw My Phone in the Pond</title>
+
+						<itunes:title>EPISODE 3: I Threw My Phone in the Pond</itunes:title>
+
+						<pubDate>Mon, 30 Sep 2024 11:00:32 GMT</pubDate>
+
+						<itunes:duration>19:18</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/66f53ed3560950b77ab43c15/media.mp3" length="222555896" type="audio/mpeg"/>
+						<guid isPermaLink="false">66f53ed3560950b77ab43c15</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-3-i-threw-my-phone-in-the-pond</link>
+
+						<acast:episodeId>66f53ed3560950b77ab43c15</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-3-i-threw-my-phone-in-the-pond</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL6wjIwJtVCDhUMdLfPWqECcyrQQMkLWOx6k5PF9Y6xIlyBauKhzMPndzrM2ygaoCaZEFO8dEd2NTLkqGGQSFKz7]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : You'll Never Be John Cleese by Alex Brenchley</p><p>Listen to it here : https://ffm.to/soabsong3</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger on a park bench and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : You'll Never Be John Cleese by Alex Brenchley</p><p>Listen to it here : https://ffm.to/soabsong3</p><p>--------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 2: Fruit Sculptures for Breakfast</title>
+
+						<itunes:title>EPISODE 2: Fruit Sculptures for Breakfast</itunes:title>
+
+						<pubDate>Mon, 30 Sep 2024 10:00:39 GMT</pubDate>
+
+						<itunes:duration>31:46</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/66f53ce545fbe7702c60bf49/media.mp3" length="366251952" type="audio/mpeg"/>
+						<guid isPermaLink="false">66f53ce545fbe7702c60bf49</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-2-fruit-sculptures-for-breakfast</link>
+
+						<acast:episodeId>66f53ce545fbe7702c60bf49</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-2-fruit-sculptures-for-breakfast</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL7bY20m0SwMtWx/bK2Bn4Et4svs4kDPt77jMSc0Ev+TQDccAHFWmTaCPoaqssScSomX+Yb/MuYVjex/LcHuLXGv]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a stranger in a London park and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Producer by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : Fruit Sculptures by Sophie May</p><p>Listen to it here : https://ffm.to/soabsong2</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a stranger in a London park and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Producer by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song : Fruit Sculptures by Sophie May</p><p>Listen to it here : https://ffm.to/soabsong2</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>EPISODE 1: A Fight </title>
+
+						<itunes:title>EPISODE 1: A Fight </itunes:title>
+
+						<pubDate>Mon, 30 Sep 2024 08:00:10 GMT</pubDate>
+
+						<itunes:duration>30:33</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66f5255eae48e0cfdb0b36bb/e/66f5370c102372377798082c/media.mp3" length="352171388" type="audio/mpeg"/>
+						<guid isPermaLink="false">66f5370c102372377798082c</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/strangers-on-a-bench/episodes/episode-1-just-because-people-do-bad-things</link>
+
+						<acast:episodeId>66f5370c102372377798082c</acast:episodeId>
+						<acast:showId>66f5255eae48e0cfdb0b36bb</acast:showId>
+
+						<acast:episodeUrl>episode-1-just-because-people-do-bad-things</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsJzpkbf0dYPty9wy5VhYBVIcwD7wwVl9BswskKovkgL70tqlIYT5Iv21k1ilUyFQPQHDp+ycx+PcGmq3QcaQ8Uz//12Obk2ceJ6Vb8Ajr29polb/G4aXeAL/JheCdoJlt]]></acast:settings>
+
+						<itunes:subtitle>Tom Rosenthal talks to strangers on park benches, often leading to surprising revelations. </itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/cover/1727341630549-42698d1f-a981-487e-8d30-41f1f57761d9.jpeg"/>
+						<description><![CDATA[<p>Tom Rosenthal approaches a random stranger in a park in London and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song 'Tryna Change' by Yvonne MK</p><p>Listen to it here : https://ffm.to/strangersonabench1</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Tom Rosenthal approaches a random stranger in a park in London and asks if he can sit down next to them and record their conversation.</p><p>This is what happened!</p><br><p>Produced by Tom Rosenthal</p><p>Edited by Rose De Larrabeiti</p><p>Mixed by Mike Woolley</p><p>Theme tune by Tom Rosenthal &amp; Lucy Railton</p><p>Incidental music by Maddie Ashman</p><br><p>End song 'Tryna Change' by Yvonne MK</p><p>Listen to it here : https://ffm.to/strangersonabench1</p><p>---------------------</p><br><p>Instagram : <a href="https://www.instagram.com/strangersonabench/" rel="noopener noreferrer" target="_blank">@strangersonabench</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+
+			<itunes:category text="Society &amp; Culture">
+					<itunes:category text="Documentary"/>
+			</itunes:category>
+    </channel>
+</rss>

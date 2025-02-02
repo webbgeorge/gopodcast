@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>The Pitcairn Trials</title>
+
+				<link>https://wondery.com/</link>
+
+				<atom:link href="https://feeds.acast.com/public/shows/675735667205a5bc68ec15f3" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>Audio Always</copyright>
+
+				<itunes:keywords/>
+
+				<itunes:author>Audio Always</itunes:author>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[<p>Halfway between South America and New Zealand is a small piece of volcanic, British territory; Pitcairn. It has one shop open for a few hours a day, it’s accessible only by boat, it was born out of Naval mutiny in the 18th Century, it’s home<strong>&nbsp;</strong>to 37&nbsp;British subjects...and an almighty scandal.</p><br><p>If you're interested in sponsorship and advertising in The Pitcairn Trials, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more!</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[<p>Halfway between South America and New Zealand is a small piece of volcanic, British territory; Pitcairn. It has one shop open for a few hours a day, it’s accessible only by boat, it was born out of Naval mutiny in the 18th Century, it’s home<strong>&nbsp;</strong>to 37&nbsp;British subjects...and an almighty scandal.</p><br><p>If you're interested in sponsorship and advertising in The Pitcairn Trials, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more!</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>true</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Wondery</itunes:name>
+					<itunes:email>ben.cartwright@audioalways.com</itunes:email>
+				</itunes:owner>
+
+				<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+				<acast:showUrl>the-pitcairn-trials</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+				<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvIVTbpPmT2nsdxWg8d8P+DdCAqDWVQZ8x4549C8O7mMiN4GNW2v5sb/yaKSrWESQlchepnpqYRe5pbbMe3OcRag=]]></acast:settings>
+
+        <acast:network id="3eee2c92-96fd-0df3-5826-9e7644e854fa" slug="caa-audio-always-network"><![CDATA[Audio Always CAA Network]]></acast:network>
+
+				
+
+				<itunes:type>serial</itunes:type>
+    
+					<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+					<image>
+						<url>https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg</url>
+						<link>https://wondery.com/</link>
+						<title>The Pitcairn Trials</title>
+					</image>
+
+					
+
+
+				<item>
+						<title>The Aftermath</title>
+
+						<itunes:title>The Aftermath</itunes:title>
+
+						<pubDate>Thu, 30 Jan 2025 04:00:17 GMT</pubDate>
+
+						<itunes:duration>40:25</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FkLlWxjDUe7ZD2d3JiLdnJuUl5j5wJiHrPYn-cyM-OP4/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/kLlWxjDUe7ZD2d3JiLdnJuUl5j5wJiHrPYn-cyM-OP4</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/the-aftermath</link>
+
+						<acast:episodeId>6757356f2dd88df132261d97</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>the-aftermath</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcoNZ3k7wzCRDEryU1kGqIj6GNQEkQsgjT3QEcjKjHukVJwfDXTId73RK3MQFcWNvqLx4syB/XEXFxADKtM06JtR6JkBzn96GdWzsbA19djPIQCXzwn2iS+Z1gHVxpQUL9FP3nGdckAIQQquYrqc7bgmyszArj/Nz4+sfzBqgMbLqawAmNe5OZpf4SgWhFr5+uYr77OMEzR0cqEzTWj2OGpuLR0WYLxHGybrjoqnBd4c2txrSiD3Bn8OtNrYSMmAVY=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>8</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>The Guilty men of Pitcairn received remarkably short prison sentences. Some on the island, sent to the luxury jail they helped to build. Some received community service, with time off to help with the island’s harvest and work. In the end the Pitcairn Trials cost £47 million, paid by the British taxpayer and government. By 2009 all the convicted men had been released. But the problem did not vanish in the years since. We examine what the future holds for Pitcairn. Can Pitcairn escape the shadows of its past? Glenda reflects on the Pitcairn paradox for some survivors, "I loved Pitcairn, the place…I didn't love what was done to me there."&nbsp;</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>The Guilty men of Pitcairn received remarkably short prison sentences. Some on the island, sent to the luxury jail they helped to build. Some received community service, with time off to help with the island’s harvest and work. In the end the Pitcairn Trials cost £47 million, paid by the British taxpayer and government. By 2009 all the convicted men had been released. But the problem did not vanish in the years since. We examine what the future holds for Pitcairn. Can Pitcairn escape the shadows of its past? Glenda reflects on the Pitcairn paradox for some survivors, "I loved Pitcairn, the place…I didn't love what was done to me there."&nbsp;</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Taking a Stand</title>
+
+						<itunes:title>Taking a Stand</itunes:title>
+
+						<pubDate>Thu, 23 Jan 2025 04:15:47 GMT</pubDate>
+
+						<itunes:duration>33:39</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FyqbMLOqmPtywvC24Rh16w_o1pUQEK_E5ti9mA6i78DE/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/yqbMLOqmPtywvC24Rh16w_o1pUQEK_E5ti9mA6i78DE</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/taking-a-stand</link>
+
+						<acast:episodeId>6757356f7205a5bc68ec2280</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>taking-a-stand</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCfQPaVXJpHjUAF5tc2ssLZ66amnQ89ch+LMSw5NfjE+jgoOYn7Vm+1Ys2TXKMh/9QobdwUG+Wa+NPdEx+lbRZOSn9e1Vy66SBy0ew7YHYR/2DadGEMbSCpQieOlUhRWI+xV905eMmz1NQ0PtGodzGoSqLHsY2Gg3e0EUF5vus/+lax776aNhAhTkQPCY99bUQ6fD4CD0sQJ4H2Jh44+kerbicIead/iCl/5GgpHezPTVNVF0lwYhbMxKKwOQIFNLmc=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>7</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>Glenda takes the stand. Through interviews and court transcripts, we examine the Defence team’s arguments, and the legal debates that surrounded them. Glenda and police officer Peter George wait for the verdict in the UK. Peter gets it first, then phones Glenda. All…Guilty. But the defence is not giving up… so before convictions are entered, it is back to London, to the Privy council as the Pitcairners lodge an extraordinary appeal before the Law Lords.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting http://www.wondery.com/links/the-pitcairn-trials.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p>https://www.nspcc.org.uk/&nbsp;</p><p>https://thesurvivorstrust.org/&nbsp;</p><br><p>In the US:</p><p>https://www.childhelphotline.org/&nbsp;</p><p>https://preventchildabuse.org/about-us/&nbsp;</p><br><p>In Australia:</p><p>https://www.napcan.org.au/</p><br><p>In New Zealand:</p><p>https://indigohouse.co.nz/</p><p>https://www.capf.org.nz/</p><p>https://www.familyaction.org.nz/</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Glenda takes the stand. Through interviews and court transcripts, we examine the Defence team’s arguments, and the legal debates that surrounded them. Glenda and police officer Peter George wait for the verdict in the UK. Peter gets it first, then phones Glenda. All…Guilty. But the defence is not giving up… so before convictions are entered, it is back to London, to the Privy council as the Pitcairners lodge an extraordinary appeal before the Law Lords.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting http://www.wondery.com/links/the-pitcairn-trials.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p>https://www.nspcc.org.uk/&nbsp;</p><p>https://thesurvivorstrust.org/&nbsp;</p><br><p>In the US:</p><p>https://www.childhelphotline.org/&nbsp;</p><p>https://preventchildabuse.org/about-us/&nbsp;</p><br><p>In Australia:</p><p>https://www.napcan.org.au/</p><br><p>In New Zealand:</p><p>https://indigohouse.co.nz/</p><p>https://www.capf.org.nz/</p><p>https://www.familyaction.org.nz/</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>White Wigs and Red Dirt</title>
+
+						<itunes:title>White Wigs and Red Dirt</itunes:title>
+
+						<pubDate>Thu, 23 Jan 2025 04:00:10 GMT</pubDate>
+
+						<itunes:duration>33:52</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FeW2TKBC51_v-3npXLeRdEd7h_G9h5yEFd4K9XFa7uAc/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/eW2TKBC51_v-3npXLeRdEd7h_G9h5yEFd4K9XFa7uAc</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/white-wigs-and-red-dirt</link>
+
+						<acast:episodeId>675735707205a5bc68ec22e3</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>white-wigs-and-red-dirt</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCc9Zoj7nQuNk4FNtQeUyFAqflEdtJjHk9KFtQ2nvptIpicXxW7MCfqKvPNGcdaF+T/sikk0oOEvBLJEU9r4DtsZLO2io+RqwNqLmCBKSsk+5kl08v2ydJ/LQDrqpIcmBMxwyq/dshUQk4vC22rS7v/kGeAsJwUq6DLJ7guqlXddpZkhQx1xC8O8urvqDB+uZcTVjRf+i8TvZq1f/Mgc5lEGa0fsFLmGomS832CUCLyMzybAnSwaqKy4LtZWB4bZQLc=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>6</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>Judges, lawyers and a press pack make the long journey to Pitcairn and the trials begin. Journalists are summoned to a meeting of all the women on the Island at Big Fence as they argue that their men are innocent, and there are claims that the trials are a British conspiracy to reclaim Pitcairn. A punishment for the mutiny on the Bounty in 1789, revenge on Pitcairn, being a dish served well and truly cold.&nbsp;</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting http://www.wondery.com/links/the-pitcairn-trials.There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p>https://www.nspcc.org.uk/&nbsp;</p><p>https://thesurvivorstrust.org/&nbsp;</p><br><p>In the US:</p><p>https://www.childhelphotline.org/&nbsp;</p><p>https://preventchildabuse.org/about-us/&nbsp;</p><br><p>In Australia:</p><p>https://www.napcan.org.au/</p><br><p>In New Zealand:</p><p>https://indigohouse.co.nz/</p><p>https://www.capf.org.nz/</p><p>https://www.familyaction.org.nz/</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Judges, lawyers and a press pack make the long journey to Pitcairn and the trials begin. Journalists are summoned to a meeting of all the women on the Island at Big Fence as they argue that their men are innocent, and there are claims that the trials are a British conspiracy to reclaim Pitcairn. A punishment for the mutiny on the Bounty in 1789, revenge on Pitcairn, being a dish served well and truly cold.&nbsp;</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting http://www.wondery.com/links/the-pitcairn-trials.There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p>https://www.nspcc.org.uk/&nbsp;</p><p>https://thesurvivorstrust.org/&nbsp;</p><br><p>In the US:</p><p>https://www.childhelphotline.org/&nbsp;</p><p>https://preventchildabuse.org/about-us/&nbsp;</p><br><p>In Australia:</p><p>https://www.napcan.org.au/</p><br><p>In New Zealand:</p><p>https://indigohouse.co.nz/</p><p>https://www.capf.org.nz/</p><p>https://www.familyaction.org.nz/</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Order, Order</title>
+
+						<itunes:title>Order, Order</itunes:title>
+
+						<pubDate>Thu, 16 Jan 2025 04:15:39 GMT</pubDate>
+
+						<itunes:duration>34:27</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FieNHCJFwgfFrfcoFWwkM5N9Hqag-XZag58zwL8IczTs/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/ieNHCJFwgfFrfcoFWwkM5N9Hqag-XZag58zwL8IczTs</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/order-order</link>
+
+						<acast:episodeId>67573576e417dbfb21211184</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>order-order</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCccKdh/b0ax5ZsPdvlXQK+7uzEbxv0l4MGCczOMQVddbUQBG24F3pfG+65CxqlTDkyXf0xDa8oDsWNWI1yXYhIEX1g/wduk3XgNyLuhFcEd93hGdq0S3Upc8rJA57VuXqHLFZ61+nYqdLkKMrFJxXP77GFt1YUq79B36aW/6Kib4mHuywphY+z/VHIWMysjdz4M/PhMs6QUyGOH/gGbGFMYk6SC0/qVrNwN0wpFrSUhmxXX8wKmB3LwbWVqTWCMZhQ=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>5</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>Despite immense pressure to withdraw their testimony, key witnesses for the prosecution are secured. A campaign to undermine the victims to withdraw from the trial begins, led by… Pitcairn women.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Despite immense pressure to withdraw their testimony, key witnesses for the prosecution are secured. A campaign to undermine the victims to withdraw from the trial begins, led by… Pitcairn women.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Glenda, A Survivor’s Story</title>
+
+						<itunes:title>Glenda, A Survivor’s Story</itunes:title>
+
+						<pubDate>Thu, 16 Jan 2025 04:00:47 GMT</pubDate>
+
+						<itunes:duration>33:47</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FJbVeqgf4AS4BrwFydnOj0AL2cZ41vNWy3gaLpA6r-L4/media.mp3" length="32436540" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/JbVeqgf4AS4BrwFydnOj0AL2cZ41vNWy3gaLpA6r-L4</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/glenda-a-survivors-story</link>
+
+						<acast:episodeId>6757356e880b7a870d9ba203</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>glenda-a-survivors-story</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdNUm/CWFNXaGIOPPHdtOFTbYXAYiRZ4uATUAI7hED7pkbupV8DB/77eGOUds9M84rp4WkqgMUFtA4bDo4yVoQ7wqoV9dPA+HWuJSAnffUrNmLvCe9COagWCS1LJ4PDEpRtCaOZsIrDT9tT4InMIXM4vEf4M8vWlsec6uHyA5wuv+8pmtjyM6fVMosoykQ5xJ2W/fMyin0Eg6J57YqIaPy60DLRwQBxQwKTX4LDrWsyyURu3sEj8N6I1mifsDVRi2eGWc1r2jYJ8AXHGkiWgLzp]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>4</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>Luke Jones meets Glenda at her home, in the UK.&nbsp;Glenda grew up on Pitcairn but now lives in the UK. She was abused growing up but told no one, until she was contacted by Kent Police during Operation Unique. This is the first time Glenda has recorded her story and it is very emotional.&nbsp;Glenda is supported in the room by her therapist and friend Sandy.&nbsp;</p><p>And what about justice for the victims and survivors? Some fear the risks to the Island are too great to take this to trial. Politicians and lawyers around the world fiercely debate whether there is a case to answer.</p><br><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Luke Jones meets Glenda at her home, in the UK.&nbsp;Glenda grew up on Pitcairn but now lives in the UK. She was abused growing up but told no one, until she was contacted by Kent Police during Operation Unique. This is the first time Glenda has recorded her story and it is very emotional.&nbsp;Glenda is supported in the room by her therapist and friend Sandy.&nbsp;</p><p>And what about justice for the victims and survivors? Some fear the risks to the Island are too great to take this to trial. Politicians and lawyers around the world fiercely debate whether there is a case to answer.</p><br><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>.</p><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Have you Ever Wanted to Disappear?</title>
+
+						<itunes:title>Have you Ever Wanted to Disappear?</itunes:title>
+
+						<pubDate>Wed, 08 Jan 2025 16:15:36 GMT</pubDate>
+
+						<itunes:duration>36:19</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FA7xI-fcUVaZ03jTevZivWrgRNraeIaePgu1n6YiJp7M/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/A7xI-fcUVaZ03jTevZivWrgRNraeIaePgu1n6YiJp7M</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/have-you-ever-wanted-to-disappear</link>
+
+						<acast:episodeId>675735762dd88df132262302</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>have-you-ever-wanted-to-disappear</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCepTZG7xkxWKVRHEir+TlOXrZe2hfu7NeDTHoy9OrBVXyFJGtA0M2xMAy+t/KfbCuru4H71UUPUp+Hgb8aB28Hrv1MbpERqZld5Htx9qCaxIOI3NN+Fxr3OezZEZOCDKngr/A+ycYORI62Ow+x8omKVoi/RbxwDX6qxodKBacwQmAuJDqH0Pq4AOD4JVojrwnxUyQF3xBmf1o+sGR2KeTSdgv1QoZsahVL9DvJeNdxYbU/wvoeE+tmom3crJILvB8Y=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>3</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>What is the history of the Island of Pitcairn, its myths and realities?</p><p>Born from the 1789 Mutiny, the mutineers, led by Fletcher Christian stumble across Pitcairn. Handily wrongly located on maps, this is their opportunity to escape the British Navy and disappear, today all Pitcairn families are&nbsp;descended from the mutineers and their Tahitian ‘wives’. But they were not a contented community, marked by violence and death, which are marked on the Island in place names. Abuse survivor Glenda, now living in the UK, paints a vivid picture of life on the Island, eating breadfruit, swimming, the unique language, the red volcanic dirt.&nbsp;But her memories are not all full of sunshine…</p><br><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>. </p><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>What is the history of the Island of Pitcairn, its myths and realities?</p><p>Born from the 1789 Mutiny, the mutineers, led by Fletcher Christian stumble across Pitcairn. Handily wrongly located on maps, this is their opportunity to escape the British Navy and disappear, today all Pitcairn families are&nbsp;descended from the mutineers and their Tahitian ‘wives’. But they were not a contented community, marked by violence and death, which are marked on the Island in place names. Abuse survivor Glenda, now living in the UK, paints a vivid picture of life on the Island, eating breadfruit, swimming, the unique language, the red volcanic dirt.&nbsp;But her memories are not all full of sunshine…</p><br><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, or Apple Podcasts, or Spotify. Start your free trial today by visiting <a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a>. </p><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Up the Hill of Difficulty</title>
+
+						<itunes:title>Up the Hill of Difficulty</itunes:title>
+
+						<pubDate>Wed, 08 Jan 2025 16:00:00 GMT</pubDate>
+
+						<itunes:duration>32:51</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FMvy8shcRcCw-1PbkAawUrkuEKkBCPhODWyCdR8xI0pg/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/Mvy8shcRcCw-1PbkAawUrkuEKkBCPhODWyCdR8xI0pg</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/up-the-hill-of-difficulty</link>
+
+						<acast:episodeId>6757356ee417dbfb21210ab9</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>up-the-hill-of-difficulty</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCejcR+0mPG0WqSN8Lv5xIc8cVPhr4XLv35qsTtRB4XItyhIZ9Dl7Klu3pLbsU2WEl/iMQTi0wrbpajD2vXju8oiVsE+wmpZlEJCyvPYi2E6+agLpbtSpa1kP7CRK77poxoWmpTgDPWlBCFFMgJSzjLBCHLrQQoXUJh3pZ2bsXWRM0kVijHwhKPtDQvIoNioTBV9yHXhDrJxXuh6BjbR2Tb1zSi2c+hun2da9uXC16/2cJiIX17ybBzwRoyuR50KoXE=]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>2</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>Kent WPC Gail Cox is chosen as the woman to bring law to Pitcairn. She sets off to Pitcairn to teach the locals how to Police themselves. At a drunken Pitcairn party, one evening, another girl makes an allegation of rape. Detective Peter George returns to Pitcairn and a distressing and astonishing picture begins to emerge of child sexual abuse on an unimaginable scale.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, Apple Podcasts, or Spotify. Start your free trial today by visiting&nbsp;<a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a><strong>&nbsp;</strong></p><br><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Kent WPC Gail Cox is chosen as the woman to bring law to Pitcairn. She sets off to Pitcairn to teach the locals how to Police themselves. At a drunken Pitcairn party, one evening, another girl makes an allegation of rape. Detective Peter George returns to Pitcairn and a distressing and astonishing picture begins to emerge of child sexual abuse on an unimaginable scale.</p><p>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, Apple Podcasts, or Spotify. Start your free trial today by visiting&nbsp;<a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a><strong>&nbsp;</strong></p><br><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Paradise, Lost</title>
+
+						<itunes:title>Paradise, Lost</itunes:title>
+
+						<pubDate>Wed, 18 Sep 2024 00:00:48 GMT</pubDate>
+
+						<itunes:duration>27:08</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2F0k7DKDc2HLPl0EUD3PtAoIpVJ86-T_RhuV2rtXpn800/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/0k7DKDc2HLPl0EUD3PtAoIpVJ86-T_RhuV2rtXpn800</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/paradise-lost-1</link>
+
+						<acast:episodeId>675735737205a5bc68ec2668</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						<acast:episodeUrl>paradise-lost-1</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeIDlV34JNr3VXl4yqGcFrzLXiD6N5GzpdaYKujiMIZW9hDmMXfZeUaejZFZkDY0A4JxKBFol7WmNcmfR+BA8TIIWCoXClgCZphc6fkKPp0RxNaw+VeoFfAaMZ94QrAxEe+pco9zMlDTp84DUUk+4GNICqSXd2ZTVXgEFR6IreJH/ns7DESjPnAEnnP/cyZGjfIW9NmVpJHe9KJfpYabNNwhVjjNnEbYBw3B6nSA2CSjeXGKfoqFtFMuiGtzRPQvJVHe0hjPJhouo+ljmfDrNUe]]></acast:settings>
+
+						
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						
+
+						<itunes:episode>1</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p>In Kent, UK, Police Officer Peter George is asked to investigate an alleged serious crime: the rape of a child. The crime is not in England but on the remote Pacific Island of Pitcairn, and what Peter and his colleague find is a complicated story. They decide that modern British law and policing must be taken to this worryingly lawless Island, but how to implement an entire legal system on a remote Pacific island? And what are the secrets that are hidden in plain sight?</p><p>Follow The Pitcairn Trials on the Wondery App. This is episode 1 of The Pitcairn Trials. To listen to more episodes join Wondery+ in the Wondery App, Apple Podcasts or Spotify. Start your free trial today by visiting&nbsp;<a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a></p><br><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><br><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>In Kent, UK, Police Officer Peter George is asked to investigate an alleged serious crime: the rape of a child. The crime is not in England but on the remote Pacific Island of Pitcairn, and what Peter and his colleague find is a complicated story. They decide that modern British law and policing must be taken to this worryingly lawless Island, but how to implement an entire legal system on a remote Pacific island? And what are the secrets that are hidden in plain sight?</p><p>Follow The Pitcairn Trials on the Wondery App. This is episode 1 of The Pitcairn Trials. To listen to more episodes join Wondery+ in the Wondery App, Apple Podcasts or Spotify. Start your free trial today by visiting&nbsp;<a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a></p><br><p>Episodes will be available for free wherever you get your podcasts in January.</p><br><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br><p>There are organisations around the world that work to prevent the abuse of children and support survivors.</p><br><p>In the UK:</p><p><a href="https://www.nspcc.org.uk/" rel="noopener noreferrer" target="_blank">https://www.nspcc.org.uk/</a>&nbsp;</p><p><a href="https://thesurvivorstrust.org/" rel="noopener noreferrer" target="_blank">https://thesurvivorstrust.org/</a>&nbsp;</p><br><p>In the US:</p><p><a href="https://www.childhelphotline.org/" rel="noopener noreferrer" target="_blank">https://www.childhelphotline.org/</a>&nbsp;</p><p><a href="https://preventchildabuse.org/about-us/" rel="noopener noreferrer" target="_blank">https://preventchildabuse.org/about-us/</a>&nbsp;</p><br><p>In Australia:</p><p><a href="https://www.napcan.org.au/" rel="noopener noreferrer" target="_blank">https://www.napcan.org.au/</a></p><br><p>In New Zealand:</p><p><a href="https://indigohouse.co.nz/" rel="noopener noreferrer" target="_blank">https://indigohouse.co.nz/</a></p><p><a href="https://www.capf.org.nz/" rel="noopener noreferrer" target="_blank">https://www.capf.org.nz/</a></p><p><a href="https://www.familyaction.org.nz/" rel="noopener noreferrer" target="_blank">https://www.familyaction.org.nz/</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Introducing: The Pitcairn Trials</title>
+
+						<itunes:title>Introducing: The Pitcairn Trials</itunes:title>
+
+						<pubDate>Mon, 09 Sep 2024 00:00:11 GMT</pubDate>
+
+						<itunes:duration>1:41</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/675735667205a5bc68ec15f3/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FeReJkZi78m6-svtROStDyYXyZfbmELv33STeLIOZJwE/media.mp3" length="4049408" type="audio/mpeg"/>
+						<guid isPermaLink="false">gid://art19-episode-locator/V0/eReJkZi78m6-svtROStDyYXyZfbmELv33STeLIOZJwE</guid>
+						<itunes:explicit>true</itunes:explicit>
+
+						<link>https://shows.acast.com/the-pitcairn-trials/episodes/67573571d59c6635eeacf512</link>
+
+						<acast:episodeId>67573571d59c6635eeacf512</acast:episodeId>
+						<acast:showId>675735667205a5bc68ec15f3</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tda7n5EE7gUB9TViRL8es1qhVFwkhdGFi6b1L8jamA7IcPCiWYv5bs5CFivVoONZ6NbWnw1UkHWOaocU9FQrxn0nZ1DrPfxvecahbZEy1GUxLDRsCSsgfgL6mo+3IrZcNipn2u3D1fHfOGVMFa2dyA+WtM55tRcU/8ZWVUxhikrP6ItC6k0AoVIeHjMyzZOPCwW5pq7l4hzXvu7wK+rjAocZbxtTvP036J6hZjgr4VMfGQ==]]></acast:settings>
+
+						
+
+						<itunes:episodeType>trailer</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/675735667205a5bc68ec15f3/1736362296351-e92cc72c-36e4-44c5-8af7-afca039326b7.jpeg"/>
+						<description><![CDATA[<p><br></p><p>Halfway between Peru and New Zealand is a tiny volcanic island, a little known British Territory.&nbsp;The community of Pitcairn is home to 37 people....and a terrifying scandal. In<strong><em>&nbsp;The Pitcairn Trials,</em></strong>&nbsp;British Journalist Luke Jones uncovers a story of historic abuse in a remote place where prosecuting secrets and challenging centuries of power has left deep scars on generations of women and girls, and brought a unique, lonely, pacific island to the brink of extinction.<strong><em>The Pitcairn Trials</em></strong>&nbsp;is a chilling lesson in what human beings can be capable of when they think no one is watching them.</p><br><p><strong>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, Apple Podcasts, or Spotify. Start your free trial today by visiting&nbsp;</strong><a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a><strong>. </strong></p><br><p>Episodes will also be available for free wherever you get your podcasts in January.</p><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p><br></p><p>Halfway between Peru and New Zealand is a tiny volcanic island, a little known British Territory.&nbsp;The community of Pitcairn is home to 37 people....and a terrifying scandal. In<strong><em>&nbsp;The Pitcairn Trials,</em></strong>&nbsp;British Journalist Luke Jones uncovers a story of historic abuse in a remote place where prosecuting secrets and challenging centuries of power has left deep scars on generations of women and girls, and brought a unique, lonely, pacific island to the brink of extinction.<strong><em>The Pitcairn Trials</em></strong>&nbsp;is a chilling lesson in what human beings can be capable of when they think no one is watching them.</p><br><p><strong>Listen to episodes of The Pitcairn Trials exclusively and ad-free by joining Wondery+ in the Wondery App, Apple Podcasts, or Spotify. Start your free trial today by visiting&nbsp;</strong><a href="http://www.wondery.com/links/the-pitcairn-trials" rel="noopener noreferrer" target="_blank"><strong>http://www.wondery.com/links/the-pitcairn-trials</strong></a><strong>. </strong></p><br><p>Episodes will also be available for free wherever you get your podcasts in January.</p><p>Episodes 1-3 from 9 Jan</p><p>Episodes 4-5 from 16 Jan</p><p>Episodes 6-7 from 23 Jan</p><p>Episode 8 from 30 Jan</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+
+      <itunes:category text="True Crime"/>
+    </channel>
+</rss>
