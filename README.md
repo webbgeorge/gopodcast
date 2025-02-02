@@ -5,6 +5,8 @@ a simple interface using regular go structs, it supports common podcast
 standards, and it uses a large number of popular podcast feeds in it's test
 suite to give a high level of coverage.
 
+This package also has 0 dependencies.
+
 Other similar libraries exist, however most of them either a) aren't
 maintained, b) support parsing or generating, not both or c) are for RSS more
 broadly without podcast specific features.

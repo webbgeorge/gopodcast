@@ -60,9 +60,6 @@ func main() {
 		}
 
 		if n, ok := n.(*ast.StructType); ok {
-			if !ast.IsExported(lastIdent) {
-				lastIdent = lastIdent
-			}
 			strct := astStruct{
 				name:   lastIdent,
 				fields: make([]astField, 0),
@@ -129,7 +126,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	err = os.WriteFile("gopodcast_xml_fix.go", src, 0644)
+	err = os.WriteFile("gopodcast_xml_fix.go", src, 0600)
 	if err != nil {
 		log.Fatal(err)
 	}

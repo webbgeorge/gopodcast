@@ -60,7 +60,10 @@ type Podcast struct {
 func (p *Podcast) WriteFeedXML(w io.Writer) error {
 	feed := emptyFeed
 	feed.Channel = p
-	w.Write([]byte(xml.Header))
+	_, err := w.Write([]byte(xml.Header))
+	if err != nil {
+		return err
+	}
 	return xml.NewEncoder(w).Encode(feed)
 }
 
