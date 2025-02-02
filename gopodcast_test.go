@@ -2,6 +2,9 @@ package gopodcast_test
 
 import (
 	"bytes"
+	"context"
+	"io"
+	"net/http"
 	"os"
 	"reflect"
 	"strings"
@@ -295,11 +298,102 @@ func TestWriteFeed_AllFields(t *testing.T) {
 	)
 }
 
+func TestParseFeedFromURL(t *testing.T) {
+	testFeedURL := "https://feeds.captivate.fm/elis-james-and-john-robins/"
+
+	parser := gopodcast.NewParser()
+	feed, err := parser.ParseFeedFromURL(context.Background(), testFeedURL)
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	checkRequiredFeedValuesPresent(t, feed)
+}
+
+func TestParseFeedFromURL_Non200(t *testing.T) {
+	testFeedURL := "http://www.example.com/feed"
+
+	parser := gopodcast.NewParser()
+	parser.HTTPClient = newTestClient(500, "error")
+
+	feed, err := parser.ParseFeedFromURL(context.Background(), testFeedURL)
+
+	assertNil(t, feed)
+	assertStr(t, "non-200 http response '500'", err.Error())
+}
+
+func TestParseFeedFromURL_InvalidFeed(t *testing.T) {
+	testFeedURL := "http://www.example.com/feed"
+
+	parser := gopodcast.NewParser()
+	parser.HTTPClient = newTestClient(200, "NOT a valid feed")
+
+	feed, err := parser.ParseFeedFromURL(context.Background(), testFeedURL)
+
+	assertNil(t, feed)
+	assertNotNil(t, err)
+}
+
+func TestParseFeedFromURL_SendsAuthCreds(t *testing.T) {
+	interceptTransport := &interceptAuthTransport{
+		transport: http.DefaultTransport,
+	}
+
+	interceptClient := &http.Client{
+		Transport: interceptTransport,
+	}
+
+	testFeedURL := "http://www.example.com/feed"
+
+	parser := gopodcast.NewParser()
+	parser.HTTPClient = interceptClient
+	parser.AuthCredentials = &gopodcast.AuthCredentials{
+		Username: "user1",
+		Password: "password1",
+	}
+
+	_, _ = parser.ParseFeedFromURL(context.Background(), testFeedURL)
+
+	// basic auth: base64(user:pass)
+	assertStr(t, "Basic dXNlcjE6cGFzc3dvcmQx", interceptTransport.authHeader)
+}
+
+func checkRequiredFeedValuesPresent(t *testing.T, podcast *gopodcast.Podcast) {
+	// channel fields
+	assertNotNil(t, podcast)
+	assertStrNotEmpty(t, podcast.AtomLink.Href)
+	assertStrNotEmpty(t, podcast.AtomLink.Rel)
+	assertStrNotEmpty(t, podcast.AtomLink.Type)
+	assertStrNotEmpty(t, podcast.Title)
+	assertStrNotEmpty(t, podcast.Link)
+	assertStrNotEmpty(t, podcast.Language)
+	assertStrNotEmpty(t, podcast.Description.Text)
+	assertStrNotEmpty(t, podcast.ITunesImage.Href)
+	assertTrue(t, len(podcast.ITunesCategory) > 0)
+	assertStrNotEmpty(t, podcast.ITunesCategory[0].Text)
+
+	// item fields
+	assertTrue(t, len(podcast.Items) > 0)
+	item := podcast.Items[0]
+	assertStrNotEmpty(t, item.Title)
+	assertStrNotEmpty(t, item.Enclosure.URL)
+	assertStrNotEmpty(t, item.Enclosure.Type)
+	assertTrue(t, item.Enclosure.Length > 0)
+	assertStrNotEmpty(t, item.GUID.Text)
+}
+
 func boolPtr(b bool) *bool {
 	return &b
 }
 
 // aim is for this library to have no dependencies, hence the assert funcs here
+func assertTrue(t *testing.T, act bool) {
+	t.Helper()
+	if !act {
+		t.Fatal("expected to be true")
+	}
+}
+
 func assertNotNil(t *testing.T, act any) {
 	t.Helper()
 	if reflect.ValueOf(act).IsNil() {
@@ -333,4 +427,47 @@ func assertInt(t *testing.T, exp int, act int) {
 	if act != exp {
 		t.Fatalf("expected '%d', got '%d'", exp, act)
 	}
+}
+
+func assertStrNotEmpty(t *testing.T, act string) {
+	t.Helper()
+	if act == "" {
+		t.Fatal("expected string to not be empty")
+	}
+}
+
+func newTestClient(httpStatus int, content string) *http.Client {
+	return &http.Client{
+		Transport: &testTransport{
+			httpStatus: httpStatus,
+			content:    content,
+		},
+	}
+}
+
+// testTransport returns the given http status code and content to enable testing of http clients
+type testTransport struct {
+	httpStatus int
+	content    string
+}
+
+func (t *testTransport) RoundTrip(r *http.Request) (*http.Response, error) {
+	buf := bytes.NewBufferString(t.content)
+	body := io.NopCloser(buf)
+	return &http.Response{
+		StatusCode: t.httpStatus,
+		Body:       body,
+	}, nil
+}
+
+// interceptAuthTransport captures the value of the Authorization header to be used in tests
+type interceptAuthTransport struct {
+	transport  http.RoundTripper
+	authHeader string
+}
+
+func (t *interceptAuthTransport) RoundTrip(r *http.Request) (*http.Response, error) {
+	t.authHeader = r.Header.Get("Authorization")
+
+	return t.transport.RoundTrip(r)
 }
