@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>NHKラジオニュース</title>
+    <link>https://www.nhk.or.jp/radionews/</link>
+    <language>ja</language>
+    <copyright>NHK (Japan Broadcasting Corporation)</copyright>
+    <itunes:author>NHK (Japan Broadcasting Corporation)</itunes:author>
+    <description>NHKラジオニュースを、いつでもどこでもお聞きになれるサービスです。</description>
+    <itunes:category text="News &amp; Politics" />
+    <itunes:image href="https://www.nhk.or.jp/s-media/img/F261_thumbnail.jpg" />
+    <lastBuildDate>Mon, 03 Feb 2025 01:42:17 +0900</lastBuildDate>
+    <itunes:keywords>news, radio, nhk</itunes:keywords>
+    <itunes:owner>
+      <itunes:email>radio-podcast@nhk.jp</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:new-feed-url>https://www.nhk.or.jp/s-media/news/podcast/list/v1/all.xml</itunes:new-feed-url>
+    <item>
+      <title>02月03日 午前０時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/2d8c584a4874fd76f31e4c176cd473df_64k.mp3" length="4800528" type="audio/mp3" />
+      <pubDate>Mon, 03 Feb 2025 00:10:00 +0900</pubDate>
+      <guid isPermaLink="false">2d8c584a4874fd76f31e4c176cd473df</guid>
+      <description></description>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 夜１１時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/fe7b847484b81a523cf3ef6e889c74c3_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 23:05:00 +0900</pubDate>
+      <guid isPermaLink="false">fe7b847484b81a523cf3ef6e889c74c3</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 夜１０時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/9fab2ae61138997bbdff7689effaf162_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 22:05:00 +0900</pubDate>
+      <guid isPermaLink="false">9fab2ae61138997bbdff7689effaf162</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 夜９時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/2b67ae117263bae6b24cc80b34899de4_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 21:05:00 +0900</pubDate>
+      <guid isPermaLink="false">2b67ae117263bae6b24cc80b34899de4</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 夜８時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/4112c59f3f7c9e3e29846b0af7753ed3_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 20:05:00 +0900</pubDate>
+      <guid isPermaLink="false">4112c59f3f7c9e3e29846b0af7753ed3</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 夜７時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/a3b284409029a5ad7da68986d987fb85_64k.mp3" length="9600528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 19:20:00 +0900</pubDate>
+      <guid isPermaLink="false">a3b284409029a5ad7da68986d987fb85</guid>
+      <description></description>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後６時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/94ab48446fb038621bab9aef4275b5bc_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 18:05:00 +0900</pubDate>
+      <guid isPermaLink="false">94ab48446fb038621bab9aef4275b5bc</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後５時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/f983df40fb6f967c0f584ed41a7c261b_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 17:05:00 +0900</pubDate>
+      <guid isPermaLink="false">f983df40fb6f967c0f584ed41a7c261b</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後４時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/271a75a25fcee6e7e7366475cb66a7e2_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 16:05:00 +0900</pubDate>
+      <guid isPermaLink="false">271a75a25fcee6e7e7366475cb66a7e2</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後３時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/071f3630438fc02c6771f9a98ae0e1f9_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 15:05:00 +0900</pubDate>
+      <guid isPermaLink="false">071f3630438fc02c6771f9a98ae0e1f9</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後２時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/ef9dd583a969c798b31f3947b1aba424_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 14:05:00 +0900</pubDate>
+      <guid isPermaLink="false">ef9dd583a969c798b31f3947b1aba424</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午後１時のニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/42635d4ca81404f29681f5b039f93a83_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 13:05:00 +0900</pubDate>
+      <guid isPermaLink="false">42635d4ca81404f29681f5b039f93a83</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 正午のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/0ed8bf1e0d814e83c727edea010b00a3_64k.mp3" length="4800528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 12:10:00 +0900</pubDate>
+      <guid isPermaLink="false">0ed8bf1e0d814e83c727edea010b00a3</guid>
+      <description></description>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午前１１時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/37dbe1fc6238260e3d556d1aff4db1ff_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 11:05:00 +0900</pubDate>
+      <guid isPermaLink="false">37dbe1fc6238260e3d556d1aff4db1ff</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午前１０時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/9ef4bb21e06a226c337e9dd7115e6137_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 10:05:00 +0900</pubDate>
+      <guid isPermaLink="false">9ef4bb21e06a226c337e9dd7115e6137</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午前８時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/13df9598f67bb712be03eaccba3d201a_64k.mp3" length="2400528" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 08:05:00 +0900</pubDate>
+      <guid isPermaLink="false">13df9598f67bb712be03eaccba3d201a</guid>
+      <description></description>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>02月02日 午前７時のNHKニュース</title>
+      <enclosure url="https://www.nhk.or.jp/s-media/news/podcast/audio/907b9aea680159ef240ecc557a190fb5_64k.mp3" length="7200720" type="audio/mp3" />
+      <pubDate>Sun, 02 Feb 2025 07:15:00 +0900</pubDate>
+      <guid isPermaLink="false">907b9aea680159ef240ecc557a190fb5</guid>
+      <description></description>
+      <itunes:duration>00:15:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title>Scamanda</title>
+
+				<link>http://lionsgatesound.com</link>
+
+				<atom:link href="https://feeds.acast.com/public/shows/66d9aa05d740de0852b686a8" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>(c) 2023 Lionsgate Sound LLC</copyright>
+
+				<itunes:keywords/>
+
+				<itunes:author>Lionsgate Sound</itunes:author>
+
+				<itunes:subtitle>Scamanda</itunes:subtitle>
+
+				<itunes:summary><![CDATA[Amanda is a wife. A mother. A blogger. A Christian.A charming, beautiful, bubbly, young woman who lives life to the fullest.But Amanda is dying, with a secret she doesn’t want anyone to know.She starts a blog detailing her cancer journey, and becomes an inspiration, touching and captivating her local community as well as followers all over the world. Until one day investigative producer Nancy gets an anonymous tip telling her to look at Amanda’s blog, setting Nancy on an unimaginable road to uncover Amanda’s secret. Award winning journalist Charlie Webster explores this unbelievable and bizarre, but all-too-real tale, of a woman from San Jose, California whose secret ripped a family apart and left a community in shock.  Scamanda is the true story of a woman whose own words held the key to her secret. Follow Scamanda on Apple Podcasts, Spotify, or wherever you listen.Amanda’s blog posts are read by actor Kendall Horn.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+
+				<description><![CDATA[Amanda is a wife. A mother. A blogger. A Christian.A charming, beautiful, bubbly, young woman who lives life to the fullest.But Amanda is dying, with a secret she doesn’t want anyone to know.She starts a blog detailing her cancer journey, and becomes an inspiration, touching and captivating her local community as well as followers all over the world. Until one day investigative producer Nancy gets an anonymous tip telling her to look at Amanda’s blog, setting Nancy on an unimaginable road to uncover Amanda’s secret. Award winning journalist Charlie Webster explores this unbelievable and bizarre, but all-too-real tale, of a woman from San Jose, California whose secret ripped a family apart and left a community in shock.  Scamanda is the true story of a woman whose own words held the key to her secret. Follow Scamanda on Apple Podcasts, Spotify, or wherever you listen.Amanda’s blog posts are read by actor Kendall Horn.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+
+				<itunes:explicit>false</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Lionsgate Sound</itunes:name>
+					<itunes:email>info+66d9aa05d740de0852b686a8@mg-eu.acast.com</itunes:email>
+				</itunes:owner>
+
+				<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+				<acast:showUrl>scamanda</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+				<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmblLqaMBMajpJXu7yp0mzceMUa8Wm6Y8p3SVOtS1XRsdgmw/pXyWW+ul729wGfUGJVh9Nb0xR6pMaE01kSUU4oa3hbybMsJmKe5j2uIkk6EXq7NAsR6CPg6WgvMU7qJBvIVTbpPmT2nsdxWg8d8P+DdCAqDWVQZ8x4549C8O7mMiN4GNW2v5sb/yaKSrWESQlchepnpqYRe5pbbMe3OcRag=]]></acast:settings>
+
+        <acast:network id="6ebf1635-a1f9-3cf9-7d6e-1207a984d989" slug="abbreviated-productions-inc"><![CDATA[Lionsgate Sound]]></acast:network>
+
+				<acast:importedFeed>https://feeds.megaphone.fm/scamanda</acast:importedFeed>
+
+				<itunes:type>serial</itunes:type>
+    
+					<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+					<image>
+						<url>https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg</url>
+						<link>http://lionsgatesound.com</link>
+						<title>Scamanda</title>
+					</image>
+
+					<itunes:new-feed-url>https://feeds.acast.com/public/shows/66d9aa05d740de0852b686a8</itunes:new-feed-url>
+
+
+				<item>
+						<title>Trailer: Introducing ‘Scamanda’ – a new ABC docuseries</title>
+
+						<itunes:title>Trailer: Introducing ‘Scamanda’ – a new ABC docuseries</itunes:title>
+
+						<pubDate>Thu, 30 Jan 2025 05:01:00 GMT</pubDate>
+
+						<itunes:duration>1:37</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/66f5b2e7995c57f56e4cf789/media.mp3" length="1960145" type="audio/mpeg"/>
+						<guid isPermaLink="false">66f5b2e7995c57f56e4cf789</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/scamanda-the-docuseries</link>
+
+						<acast:episodeId>66f5b2e7995c57f56e4cf789</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						<acast:episodeUrl>scamanda-the-docuseries</acast:episodeUrl>
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmfwL2jaMW9OfVjpl1A481t14TmPPNBt/QBdFV0cjQSq6O95gGg1G5VX1qUALnMwOy84DIRWdD816dQkEuoT9tdZcw4nzNpKy8paE/xxSv+Wno2nHPLxOmQS3m1107wgqT/3i1Jw7AG8hePpITcYM4L2ZciR06TWBgPXnx1O/pIe5U50SakEIUappVNAmgeQfyGV4K3ZXz/TzX+dYI++Rb3JowfP6LKZ1WTyJOs+nDF4P3hvOYe2IuDSG6I3M2DEK+No9icpWRU0xNxa5bwvS4hJUYgbw3R/L9JZcZm6/Gf2l]]></acast:settings>
+
+						
+
+						<itunes:episodeType>trailer</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>13</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[‘Scamanda’ – a new docuseries based on the hit podcast of the same name, premieres Thursday, January 30th&nbsp;on ABC. Stream next day on Hulu.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[‘Scamanda’ – a new docuseries based on the hit podcast of the same name, premieres Thursday, January 30th&nbsp;on ABC. Stream next day on Hulu.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Crime Story: Charlie Webster on Amanda C. Riley’s Web of Lies</title>
+
+						<itunes:title>Crime Story: Charlie Webster on Amanda C. Riley’s Web of Lies</itunes:title>
+
+						<pubDate>Mon, 22 Apr 2024 07:00:00 GMT</pubDate>
+
+						<itunes:duration>39:56</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/5f91b346-fe85-11ee-84e6-17a05bb822e6/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">5f91b346-fe85-11ee-84e6-17a05bb822e6</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e316728128b</link>
+
+						<acast:episodeId>66d9aa0829a27e316728128b</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrn4LaqOFC57gcKmfX91C/f+W9b4sotTHbPJQRi24AqdzeWiMBiv9v5luZE0X9Rf+RfUx7hHq29h6eew8GWIornl]]></acast:settings>
+
+						
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>In this special bonus conversation, Charlie Webster sits down with Crime Story host Kathleen Goldhar to discuss why she believes Amanda was not only able to lie about having cancer, but steal from those closest to her. It's a fascinating conversation you don't want to miss that offers new insights and updates on the case.</p><p>You can listen to more incredible tales of true crime every week on Crime Story. Find more Crime Story episodes in your podcast app, or here: https://link.chtbl.com/ElKMSt6q</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>In this special bonus conversation, Charlie Webster sits down with Crime Story host Kathleen Goldhar to discuss why she believes Amanda was not only able to lie about having cancer, but steal from those closest to her. It's a fascinating conversation you don't want to miss that offers new insights and updates on the case.</p><p>You can listen to more incredible tales of true crime every week on Crime Story. Find more Crime Story episodes in your podcast app, or here: https://link.chtbl.com/ElKMSt6q</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Surviving El Chapo Returns for Season 2</title>
+
+						<itunes:title>Surviving El Chapo Returns for Season 2</itunes:title>
+
+						<pubDate>Wed, 04 Oct 2023 19:09:24 GMT</pubDate>
+
+						<itunes:duration>0:58</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/22426f46-62e8-11ee-9404-cf4d0928e8c0/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">22426f46-62e8-11ee-9404-cf4d0928e8c0</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e316728128c</link>
+
+						<acast:episodeId>66d9aa0829a27e316728128c</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZ/Ynvgc/bVSlxbfa1LTdZ/NS0G6+1uBWmuf3KXrHlJ0izxnDClosxN1ZvN1RuhNrn4LaqOFC57gcKmfX91C/f+W9b4sotTHbPJQRi24AqdzeWiMBiv9v5luZE0X9Rf+RcuOGzU3PiazZ5sIWj1GC0m]]></acast:settings>
+
+						<itunes:subtitle><![CDATA[Hey Scamanda listeners! We wanted to let you know about Lionsgate Sound's new podcast, Season 2 of Surviving El Chapo: The Twins Who Brought Down A Drug Lord.]]></itunes:subtitle>
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Hey Scamanda listeners! We wanted to let you know about the return of Lionsgate Sound's Surviving El Chapo: The Twins Who Brought Down A Drug Lord.</p><p>It follows the story of the Flores twins, who after becoming El Chapo's right hand men, turned themselves over to the US authorities and cooperated against El Chapo to bring him down. Season 2 begins as they are taken into US custody and have to adjust to prison life before testifying in court against the world's most notorious drug lord. And there's a massive bombshell as the twins' wives now find themselves going to prison because of what they did.</p><p>We'd love for you to check it out, you can find it here: <a href="https://link.chtbl.com/survivingelchapo?sid=scamanda">https://link.chtbl.com/survivingelchapo?sid=scamanda</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Hey Scamanda listeners! We wanted to let you know about the return of Lionsgate Sound's Surviving El Chapo: The Twins Who Brought Down A Drug Lord.</p><p>It follows the story of the Flores twins, who after becoming El Chapo's right hand men, turned themselves over to the US authorities and cooperated against El Chapo to bring him down. Season 2 begins as they are taken into US custody and have to adjust to prison life before testifying in court against the world's most notorious drug lord. And there's a massive bombshell as the twins' wives now find themselves going to prison because of what they did.</p><p>We'd love for you to check it out, you can find it here: <a href="https://link.chtbl.com/survivingelchapo?sid=scamanda">https://link.chtbl.com/survivingelchapo?sid=scamanda</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>BONUS: Nobody believed me: pushed out co-worker on Amanda the painful Principal</title>
+
+						<itunes:title>BONUS: Nobody believed me: pushed out co-worker on Amanda the painful Principal</itunes:title>
+
+						<pubDate>Mon, 10 Jul 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>42:15</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/93de9f92-105b-11ee-94f3-27ef3d68ef69/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">93de9f92-105b-11ee-94f3-27ef3d68ef69</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e316728128d</link>
+
+						<acast:episodeId>66d9aa0829a27e316728128d</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCc9Je5v94TY4L3IIDud9vx0ikw+GptWHKFV6YPbJtGBWFNuKlLZs5fxnSdj3RltLDxeeKuMYkc95dcKNnV0zT54WS+HTbxXgGACaSijPmiunAfJfxmnqFBl9ttkkdeV3S5slHXh80LofgLgYNKAU8Npup0ttsBCCowAZ2HDuyUj8bCRVPzW2+Owo9w9QH+/OlmHVv9SLHNGEqHtsBl9vXqPJAqUMmHj3G/v6zKCOYoLkhe5zlJvIq1NU7Y+NhHd8O3dPaq6an5v+dP6F5dR3H7+12mv2m6FITzayMfGZrmVGHBbbBSfrobwcSaqmczsYmw=]]></acast:settings>
+
+						<itunes:subtitle>Before she was indicted, Amanda became the Principal of Pacific Point Elementary School.</itunes:subtitle>
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>12</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Before she was indicted, Amanda became the Principal of Pacific Point Elementary School. How did she become a Principal, and what was she like to work with? Find out from an anonymous guest who in the end had to leave her teaching career.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Before she was indicted, Amanda became the Principal of Pacific Point Elementary School. How did she become a Principal, and what was she like to work with? Find out from an anonymous guest who in the end had to leave her teaching career.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>BONUS: Amanda’s Early Exploits: Was she ‘sick’ even back in college?</title>
+
+						<itunes:title>BONUS: Amanda’s Early Exploits: Was she ‘sick’ even back in college?</itunes:title>
+
+						<pubDate>Wed, 05 Jul 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>31:14</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/3437433a-0964-11ee-a2f5-0b4315462675/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">3437433a-0964-11ee-a2f5-0b4315462675</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e316728128e</link>
+
+						<acast:episodeId>66d9aa0829a27e316728128e</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcnraKu3y2458g+MzxYVTwnqwlqAWGh0u/wJI3UWUdnGdg/xjp+jlUCXQf8EJrdUA5nQIbl2hmS3dSjNMH3xBrAAPVu6q1UClOXYl9QvkmjkQwA9niWg27z/PP3j0lkqCAm/u+wXLKMdMm3aUb7jH/LC1uzXRw49935XfhjHOC3eoL03jReZbOPC11fKPwiKiu0+/DwcpYStEbLCliTYjNOcWGAroaP+CGpieX+ykrYdvq8iOIQ01LuJN4Uwi2m33F5QrYP281nG2nogtqRDL1/J7rin66RVait8Kmbqgn5LQ==]]></acast:settings>
+
+						<itunes:subtitle>Hear from two people who knew Amanda years ago - before the blog, before Lisa and Steve - back when she was a college student and Resident Advisor.</itunes:subtitle>
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>11</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Hear from two people who knew Amanda years ago - before the blog, before Lisa and Steve - back when she was a college student and Resident Advisor. What was she like during her time at San Jose State? And what exactly was she doing? Be prepared!&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Hear from two people who knew Amanda years ago - before the blog, before Lisa and Steve - back when she was a college student and Resident Advisor. What was she like during her time at San Jose State? And what exactly was she doing? Be prepared!&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>BONUS: Uncovering Amanda’s blogs</title>
+
+						<itunes:title>BONUS: Uncovering Amanda’s blogs</itunes:title>
+
+						<pubDate>Mon, 03 Jul 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>25:02</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/0170032e-0964-11ee-ba4e-4349b88eb00a/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">0170032e-0964-11ee-ba4e-4349b88eb00a</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e316728128f</link>
+
+						<acast:episodeId>66d9aa0829a27e316728128f</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcLgoziE+acnK5rBTA9YD2OkrY1WoulpX3d70E6MWe0olQrg16k9ub2TGo1eJVSdfcCck30ShnWU4/uG9cq/Bimw8L+egx1Ati/SMqEt3ecY4Qd7phqFn/rH3SNZWQcl9AkTAs0NJ07nPa+olXttozmR8zl8JkuwIsSNqsXA73A7qgKd9F/FFZIOB9CLtpzeeHXWhwBEp8WELSN6YB4qwdfzJdBpjKGXSF5myaa8on2cLDRJyReVtr8yG/kXnNCHdpxP+8XUzmCbLGnpytiF01LZMALFL1X1EpnZEKi01gQdQ==]]></acast:settings>
+
+						<itunes:subtitle>Charlie and Nancy work through the extreme detail and the lengths Amanda went to, not just in the blog but also on the stand in court to stop Nancy.</itunes:subtitle>
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>10</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>If there’s one thing people have been talking about non-stop, it’s the blogs and exactly how Amanda was able to pull this off. And where exactly are these blogs? Charlie and Nancy work through the extreme detail and the lengths Amanda went to, not just in the blog but also on the stand in court to stop Nancy.&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>If there’s one thing people have been talking about non-stop, it’s the blogs and exactly how Amanda was able to pull this off. And where exactly are these blogs? Charlie and Nancy work through the extreme detail and the lengths Amanda went to, not just in the blog but also on the stand in court to stop Nancy.&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>BONUS: We go behind the scenes with Charlie and Nancy.</title>
+
+						<itunes:title>BONUS: We go behind the scenes with Charlie and Nancy.</itunes:title>
+
+						<pubDate>Wed, 28 Jun 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>24:57</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/2022988a-06ea-11ee-943c-6fc89b7d4cd1/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">2022988a-06ea-11ee-943c-6fc89b7d4cd1</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281290</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281290</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCekOYqY1STPIH7BihHWJPC+IKxIlbuTA1LkoLdfH53eK22koYqowql4KsnoB0dtLRF6SWCFg8SVDTh1BGP4lwyR9vZS0tfdNNYFX6kzGjzGh/tbNoBrecMTkaz54yM8jTSFUnfc/ZJlZnb/LkYYI+Zgkf3jFvKrjQpQb/JkHjdsJLV+au+6MHv5UWJE0fWafJ4afZJXRD6UQ8Fyw+Uu/NozubSWzy+sII1Djeg0FZbPOH2gwBGxOewbTpyavjLa+f8dAzBki63TO2tVz9RYks5YpaK16hA1XJ4mfRqtL79UpYzLffEuQvboiUQ/qU888fQ=]]></acast:settings>
+
+						<itunes:subtitle>Charlie sits down with Nancy, the person whose dogged pursuit of Amanda is the reason she’s in prison, to take a peek behind the curtain and delve even further.</itunes:subtitle>
+
+						<itunes:episodeType>bonus</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>9</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>The world now knows about Amanda Riley and what she did. Charlie sits down with Nancy, the person whose dogged pursuit of Amanda is the reason she’s in prison, to take a peek behind the curtain and delve even further.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>The world now knows about Amanda Riley and what she did. Charlie sits down with Nancy, the person whose dogged pursuit of Amanda is the reason she’s in prison, to take a peek behind the curtain and delve even further.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 8 — Finale: Indicted</title>
+
+						<itunes:title>Chapter 8 — Finale: Indicted</itunes:title>
+
+						<pubDate>Mon, 26 Jun 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>1:25:58</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/57fa541a-00d6-11ee-84c0-37a26082e4ce/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">57fa541a-00d6-11ee-84c0-37a26082e4ce</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281291</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281291</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdRzP2HZiZmgy+0SmWFUsyyB3hCD2g/gHLeeutznmw+6LN6tfQ0E+GfvzrJ7KCxizgytyI12j5GSzB4kDpnUfFTNgGfYZHBFoACVabGk0OnYiiwEawXjjSX1+UI1XMyjpI8RiZPv8vHjaAOhBWXf5rz6AQKS7MPtwD8u8aKK4MEcMLs4Huatp+d/6PfImfGEn0v83ZJrzq5raLVQUWJ47hInzTjG1wx2zW3c5AmUmtcFd2AS3wnaw+RBbVaiQogb5RlqE9Mo7Fbn8aS73c7FHzHXiJvCv7JqnC2aciBm3vuBI2k/axhAH1eiDJVZCeQMEM=]]></acast:settings>
+
+						<itunes:subtitle>Nancy’s eight year long obsession culminates in the indictment of Amanda C. Riley for wire fraud.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>8</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Nancy’s eight year long obsession culminates in the indictment of Amanda C. Riley for wire fraud. It sends a shockwave through the local community. Amanda reads a statement to the court, and the judge gives her verdict.</p><br><p>The Amanda C. Riley case is the only one of its kind in IRS history. Amanda is currently serving the longest federal prison sentence in history for soliciting donations for faking cancer.&nbsp;</p><p>Thanks so much for listening to Scamanda. This might be the official end to the series, but we're not quite finished yet. Stay tuned for some very interesting bonus content, and a few surprises, that will start dropping in your feed on Wednesdays and Mondays, starting June 28th and continuing for the next two weeks.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Nancy’s eight year long obsession culminates in the indictment of Amanda C. Riley for wire fraud. It sends a shockwave through the local community. Amanda reads a statement to the court, and the judge gives her verdict.</p><br><p>The Amanda C. Riley case is the only one of its kind in IRS history. Amanda is currently serving the longest federal prison sentence in history for soliciting donations for faking cancer.&nbsp;</p><p>Thanks so much for listening to Scamanda. This might be the official end to the series, but we're not quite finished yet. Stay tuned for some very interesting bonus content, and a few surprises, that will start dropping in your feed on Wednesdays and Mondays, starting June 28th and continuing for the next two weeks.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 7 — This Lady Royally Sucks</title>
+
+						<itunes:title>Chapter 7 — This Lady Royally Sucks</itunes:title>
+
+						<pubDate>Mon, 19 Jun 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>37:59</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/37e3586c-eb6d-11ed-a8f3-7f26476b2207/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">37e3586c-eb6d-11ed-a8f3-7f26476b2207</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281292</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281292</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdbR04vrnvCmGCykLgRNwCmuTPgY6TMcdOXX7mk0Qe7mOzWPM99H2VqldoQlm7gLSHfYX5pJTb0PylMD0vAmM7ednKdKstCCOvkc3M0UBJw1r2O+dnJy6PUIieh5k3yHCgD0wofeyZuvl8bXPIafOF2TYP8FfPj3uKuice1F1pOF9dPUKI4lmypI2KyD5HrDZmoX2GxXQps888UKHXap+E0oEZeH8rm9ZLEkDxBkYufKtEMSkTpxhVVpSxWGA3NixJb8E5QPJzw4l4zUeITCjGhVlErY6rz/d66c0cPTTxioFBXbjB0YkVEIMaZy1kiDz0=]]></acast:settings>
+
+						<itunes:subtitle>An explosive piece of evidence is submitted to the court.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>7</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Amanda moves to Gilroy for a huge promotion - to Principal of a local Christian School. Nancy is still making trouble for her. In an attempt to get Nancy off her back, Amanda takes Nancy to court to get a restraining order against her. An explosive piece of evidence is submitted to the court.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Amanda moves to Gilroy for a huge promotion - to Principal of a local Christian School. Nancy is still making trouble for her. In an attempt to get Nancy off her back, Amanda takes Nancy to court to get a restraining order against her. An explosive piece of evidence is submitted to the court.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 6 — High As Hell</title>
+
+						<itunes:title>Chapter 6 — High As Hell</itunes:title>
+
+						<pubDate>Mon, 12 Jun 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>57:57</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/f68652d0-eb6b-11ed-9e5d-870c4107bc7b/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">f68652d0-eb6b-11ed-9e5d-870c4107bc7b</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281293</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281293</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCedyrAtNhMR8QGoqEeCHJ752JIAbQQIsluXOBAkE5UOUMTOGW47PKACoUHeWnY7AbavLZtsVWEbgGQYELy9TmvVUD1p6jUnOu4TRepsM5Vvs34Ubs8x6ExqyxURP2fpUd9y5n3fZEX/yrwB/GR66zgFvcz3Wz8dcpyCyxXhpgK1kwMAJxWy30OLDkJEtZjOixG5s1dF9KOOfUhHbHCNfXC6AJhY3GtI+HED/L7FxTLYgl0dBvhhTAtudpcx4geGepjUxgrGzs6BTY3SEJKy/KE5I6vA6FTqLaPmCW5xKxIPp/wRrGT3W1cVqQSlXN9puNM=]]></acast:settings>
+
+						<itunes:subtitle>Detective Martinez and Nancy team up and bring the IRS into the fold, launching a federal investigation into Amanda.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>6</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Amanda lands a new job as a middle school teacher. But while #TeamAmanda continues to grow in popularity, there’s an ever-growing Team Nancy. Detective Martinez and Nancy team up and bring the IRS into the fold, launching a federal investigation into Amanda.&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Amanda lands a new job as a middle school teacher. But while #TeamAmanda continues to grow in popularity, there’s an ever-growing Team Nancy. Detective Martinez and Nancy team up and bring the IRS into the fold, launching a federal investigation into Amanda.&nbsp;</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 5 — Faith in the Truth</title>
+
+						<itunes:title>Chapter 5 — Faith in the Truth</itunes:title>
+
+						<pubDate>Mon, 05 Jun 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>54:40</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/e9493216-eb6d-11ed-b4c8-bb65b5411f28/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">e9493216-eb6d-11ed-b4c8-bb65b5411f28</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281294</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281294</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCchPmCEm5S+mfA5xKEm93JJSZfzdc42Y1UW/jS+hZiththODoqSJvnZIawqHyvZcIYkCRLITIbVGVVEZMLDDHEeCTVpklWhWdvRxrE+D+3PY8z6UPyz5U/XY6xTWMwLBDX0c7Kr3oE4fXdARkA/SWg+Np9KLTvJBBMyOTvpsVAeHoPjM0FTxtk8BzMJdyVehjXWar9qBQtfZ3th5HkAyMrHKgIt9Cr0SKaVhoBNYd4uoz+flgiZtRaZBXbWiT2FuQafmut3zN3zblWAWBl/w9r6osNqz9pGCHqitsWQC2CccA==]]></acast:settings>
+
+						<itunes:subtitle>Convinced Amanda is lying about her cancer, Nancy enlists the support of San Jose Detective Jose Martinez.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>5</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Convinced Amanda is lying about her cancer, Nancy enlists the support of San Jose Detective Jose Martinez. Amanda’s birthday brings a massive rally of support, including a #TeamAmanda video that gets the attention of thousands, set to the tune of Rachel Platten’s Fight Song.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Convinced Amanda is lying about her cancer, Nancy enlists the support of San Jose Detective Jose Martinez. Amanda’s birthday brings a massive rally of support, including a #TeamAmanda video that gets the attention of thousands, set to the tune of Rachel Platten’s Fight Song.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 4 — Terminal. Miracle.</title>
+
+						<itunes:title>Chapter 4 — Terminal. Miracle.</itunes:title>
+
+						<pubDate>Mon, 29 May 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>41:38</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/06ce74ec-e932-11ed-a7aa-73292474be88/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">06ce74ec-e932-11ed-a7aa-73292474be88</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281295</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281295</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdAkA4ZkmP1PSf2kaiqman7uCYt0PYQefyUxSr/Fsec182eRMlwzTvkzw2oludtvjpfnw7u8xDL0qW3+F/M5Lfo7hvder9c0xLQXs/+9SXdLZj9pyXawOmOeqsXkEV4S+OmidGrgUsAfPzGAwHEyl52+tXCptZhiLKiS6gFFdYByBirWqV5iFFOAHpd7ZzLduA6W/qaacvBtFq6ose63K1o0ibfRGqjWB2v4IMDOi5Ze5ssW34yA+sLntJ+xQai4HD7uDRpyKx3KlRp2QUFinrfLXy3tmj6R5bRAY8RblBxwALB7o7BEURL3Jz8whzsqpc=]]></acast:settings>
+
+						<itunes:subtitle>Amanda’s journey with cancer is like a rollercoaster that never ends.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>4</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Amanda’s journey with cancer is like a rollercoaster that never ends. Her friend Lindsey explains that it was a constant back and forth of terminal, miracle, terminal, miracle. Nancy continues looking into whether Amanda is really faking it all. Amanda drops a bombshell on her friends Lisa and Steve.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Amanda’s journey with cancer is like a rollercoaster that never ends. Her friend Lindsey explains that it was a constant back and forth of terminal, miracle, terminal, miracle. Nancy continues looking into whether Amanda is really faking it all. Amanda drops a bombshell on her friends Lisa and Steve.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><br><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 3 — No Coincidences</title>
+
+						<itunes:title>Chapter 3 — No Coincidences</itunes:title>
+
+						<pubDate>Mon, 22 May 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>57:25</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/98229c30-e931-11ed-ada9-979115750d56/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">98229c30-e931-11ed-ada9-979115750d56</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281296</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281296</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcMhzelNmWQKpeuylsnb93nLieMVmfv+qffoXqEM4gnX+ik1PCfUSNh4OHdU3uF1XWW1nS2qNgQcQVsvpEn39AnXjRoM4A5U3dxspsnaE7UhkTzi6Slx3X7TvxgPhP3n649dqfpmOihTnKG3CZh0fswt/PRd2zZ8EraYKnIdmdjBwZ4SZPJ46LVnI0UTDA8/5soUSoRmGLN1nvU1nvaFrA0OXKnN9qjiuNis59JU5iaNU6W6HoxrNAZZ/AkloPFw+VAx+jYeOKBAzYoSRZnGwMx0ZTrb/zLCjbx5AFLWWUfRA==]]></acast:settings>
+
+						<itunes:subtitle>Amanda’s rockstar status is cemented at church, but not before getting the most devastating news yet - her cancer has progressed to Stage Four.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>3</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Despite everything, Amanda falls pregnant with her second child - the miracle baby. Amanda’s rockstar status is cemented at church, but not before getting the most devastating news yet - her cancer has progressed to Stage Four.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Despite everything, Amanda falls pregnant with her second child - the miracle baby. Amanda’s rockstar status is cemented at church, but not before getting the most devastating news yet - her cancer has progressed to Stage Four.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 2 — Roaring Goddess</title>
+
+						<itunes:title>Chapter 2 — Roaring Goddess</itunes:title>
+
+						<pubDate>Wed, 17 May 2023 07:00:00 GMT</pubDate>
+
+						<itunes:duration>35:30</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/a3bc0b04-e930-11ed-95e7-73a446c01a2d/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">a3bc0b04-e930-11ed-95e7-73a446c01a2d</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281297</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281297</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFBtaeYFFmUrxeNlT1cF6roU6sbmBHqw3yPb6HHEUugnNvM4DzyWMsocfAOBUcH6v1hUUSBIGqMGjkVF+ajg171ibdXpsSa8KiVo4vlHBmviXLC/iX//KWpRbSNMN5QIidPe1yT9xDD8y6vEk2X6/xYDe7Sg6hyjN11v3b9baninYf68KHjhuEXSY//NYufDrBizolLfa8TNQpqkqcMvD6lLNzgitixQhcZR6TjpEX9IHJRpcxaaMfg6E7GGVnXweIsUWeQf8hkeRLXuP66iPZZq7Q4DHePlRsWqy/ngAgvA==]]></acast:settings>
+
+						<itunes:subtitle>Amanda’s good news doesn’t last long.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>2</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Amanda’s good news doesn’t last long. Her mother, Peggy, the ‘Roaring Goddess,' posts a guest blog to keep Amanda’s followers updated. Her family launches a donation website for #TeamAmanda to donate directly to the cause. The custody battle rages on.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><p>Hosted by Charlie Webster.</p><br><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Amanda’s good news doesn’t last long. Her mother, Peggy, the ‘Roaring Goddess,' posts a guest blog to keep Amanda’s followers updated. Her family launches a donation website for #TeamAmanda to donate directly to the cause. The custody battle rages on.</p><br><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><p>Hosted by Charlie Webster.</p><br><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Chapter 1 — Amanda is Dying</title>
+
+						<itunes:title>Chapter 1 — Amanda is Dying</itunes:title>
+
+						<pubDate>Mon, 15 May 2023 17:00:00 GMT</pubDate>
+
+						<itunes:duration>36:30</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/ef802ede-e5ee-11ed-8811-67ffc38ff9e4/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">ef802ede-e5ee-11ed-8811-67ffc38ff9e4</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281298</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281298</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeBRBk+NFQQtHy9danqMh2oNSWe6Ab8M1c1loX+Otae9XhOoiOALQYfX7T20KfevC5LmV5dnkH6/2AW4q08E+qldbjPyAzdvUvmCo+RYFtVwpm5ObSfs/4hjkgL8C7fGfDKCfnBfyLRO5VIukpKexjDuvKkibZmq/foTfip/UPa5Dw9YYVowOnXm1LkxQj17kE3PjS/1FEGpiYYU4zckWykevQaT46wJwYoSVRgUcB9ZMM1QgnXE4hLWpDuU+u3NfNrXpsqt9VFc7Iv4xtW/p3C2AKuYY0Wrj2eYIVCLLuO+A==]]></acast:settings>
+
+						<itunes:subtitle>Meet Amanda. She’s dying. Or at least, that’s what she tells the world in her brand new blog.</itunes:subtitle>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>1</itunes:season>
+
+						<itunes:episode>1</itunes:episode>
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Meet Amanda. Her world is about to be shattered by some life-changing news during the birth of her first child. She’s dying. Or at least, that’s what she tells the world in her brand new blog.&nbsp;</p><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Meet Amanda. Her world is about to be shattered by some life-changing news during the birth of her first child. She’s dying. Or at least, that’s what she tells the world in her brand new blog.&nbsp;</p><p>Scamanda is a Lionsgate Sound podcast: http://lionsgatesound.com</p><br><p>Hosted by Charlie Webster.</p><p>Listen to another Lionsgate Sound podcast hosted by Charlie Webster, Died &amp; Survived: https://link.chtbl.com/diedandsurvived?sid=sc</p><p><br></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+				<item>
+						<title>Meet Scamanda</title>
+
+						<itunes:title>Meet Scamanda</itunes:title>
+
+						<pubDate>Wed, 26 Apr 2023 22:04:00 GMT</pubDate>
+
+						<itunes:duration>3:27</itunes:duration>
+
+						<enclosure url="https://sphinx.acast.com/p/open/s/66d9aa05d740de0852b686a8/e/07e372ae-e47f-11ed-9341-3b987a410a4a/media.mp3" length="" type="audio/mpeg"/>
+						<guid isPermaLink="false">07e372ae-e47f-11ed-9341-3b987a410a4a</guid>
+						<itunes:explicit>false</itunes:explicit>
+
+						<link>https://shows.acast.com/scamanda/episodes/66d9aa0829a27e3167281299</link>
+
+						<acast:episodeId>66d9aa0829a27e3167281299</acast:episodeId>
+						<acast:showId>66d9aa05d740de0852b686a8</acast:showId>
+
+						
+
+						<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdoOBk8mdPEV31wfDcRzYWsg4GysXQJb7WQ6Knoo/1W/2aw3TBOA6hEy9DHMXwppgIXm+3SQg4vv+PvqIQ1xOn8H7sSg5p80pFpbNRDl1puhikvRTXcmOCYYid7svW3YSoGQYIRN9lzeZWYQb2dqf3oNh1rZWkb7Aqw6M3iqjGcxllcPHCy1rxZpl+8ecH6UTQ=]]></acast:settings>
+
+						<itunes:subtitle>New episodes every Monday.</itunes:subtitle>
+
+						<itunes:episodeType>trailer</itunes:episodeType>
+
+						
+
+						
+
+            
+            
+							<itunes:image href="https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg"/>
+						<description><![CDATA[<p>Amanda is a wife. A mother. A blogger. A Christian.</p><p>A charming, beautiful, bubbly, young woman who lives life to the fullest.</p><p>But Amanda is dying, with a secret she doesn’t want anyone to know.</p><p>She starts a blog detailing her cancer journey, and becomes an inspiration, touching and captivating her local community as well as followers all over the world. </p><p>Until one day investigative producer Nancy gets an anonymous tip telling her to look at Amanda’s blog, setting Nancy on an unimaginable road to uncover Amanda’s secret. </p><p>Award winning journalist Charlie Webster explores this unbelievable and bizarre, but all-too-real tale, of a woman from San Jose, California whose secret ripped a family apart and left a community in shock.  </p><p>Scamanda is the true story of a woman whose own words held the key to her secret. </p><p>New episodes every Monday.</p><p>Follow Scamanda on Apple Podcasts, Spotify, or wherever you listen.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+						<itunes:summary><![CDATA[<p>Amanda is a wife. A mother. A blogger. A Christian.</p><p>A charming, beautiful, bubbly, young woman who lives life to the fullest.</p><p>But Amanda is dying, with a secret she doesn’t want anyone to know.</p><p>She starts a blog detailing her cancer journey, and becomes an inspiration, touching and captivating her local community as well as followers all over the world. </p><p>Until one day investigative producer Nancy gets an anonymous tip telling her to look at Amanda’s blog, setting Nancy on an unimaginable road to uncover Amanda’s secret. </p><p>Award winning journalist Charlie Webster explores this unbelievable and bizarre, but all-too-real tale, of a woman from San Jose, California whose secret ripped a family apart and left a community in shock.  </p><p>Scamanda is the true story of a woman whose own words held the key to her secret. </p><p>New episodes every Monday.</p><p>Follow Scamanda on Apple Podcasts, Spotify, or wherever you listen.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+					</item>
+
+
+      <itunes:category text="True Crime"/>
+			<itunes:category text="Society &amp; Culture">
+					<itunes:category text="Documentary"/>
+			</itunes:category>
+    </channel>
+</rss>
