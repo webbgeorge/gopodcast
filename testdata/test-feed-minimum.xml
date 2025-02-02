@@ -8,9 +8,7 @@
     <description>Test podcast description goes here</description>
     <itunes:explicit>true</itunes:explicit>
     <itunes:image href="http://www.example.com/image.jpg"/>
-    <itunes:category text="Comedy">
-      <itunes:category text="Bad Jokes"/>
-    </itunes:category>
+    <itunes:category text="Comedy"/>
     <item>
       <title>Test episode 1</title>
       <enclosure url="http://www.example.com/episode-1.mp3" length="1001" type="audio/mpeg"/>

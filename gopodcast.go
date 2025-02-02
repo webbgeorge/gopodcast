@@ -1,38 +1,33 @@
+//go:generate go run generate/main.go
+
 package gopodcast
 
 import (
-	"context"
 	"encoding/xml"
-	"fmt"
 	"io"
-	"net/http"
 )
 
 // TODO better types on XML structs, plus custom marshallers
 
-type Feed struct {
+type feed struct {
 	XMLName      xml.Name `xml:"rss"`
 	Version      string   `xml:"version,attr"`
 	XMLNSContent string   `xml:"xmlns:content,attr"`
 	XMLNSPodcast string   `xml:"xmlns:podcast,attr"`
 	XMLNSAtom    string   `xml:"xmlns:atom,attr"`
 	XMLNSITunes  string   `xml:"xmlns:itunes,attr"`
-	Channel      *Channel `xml:"channel"`
+	Channel      *Podcast `xml:"channel"`
 }
 
-func (f *Feed) WriteFeedXML(w io.Writer) error {
-	// add standard feed attrs
-	f.Version = "2.0"
-	f.XMLNSContent = "http://purl.org/rss/1.0/modules/content/"
-	f.XMLNSPodcast = "https://podcastindex.org/namespace/1.0"
-	f.XMLNSAtom = "http://www.w3.org/2005/Atom"
-	f.XMLNSITunes = "http://www.itunes.com/dtds/podcast-1.0.dtd"
-
-	w.Write([]byte(xml.Header))
-	return xml.NewEncoder(w).Encode(f)
+var emptyFeed = &feed{
+	Version:      "2.0",
+	XMLNSContent: "http://purl.org/rss/1.0/modules/content/",
+	XMLNSPodcast: "https://podcastindex.org/namespace/1.0",
+	XMLNSAtom:    "http://www.w3.org/2005/Atom",
+	XMLNSITunes:  "http://www.itunes.com/dtds/podcast-1.0.dtd",
 }
 
-type Channel struct {
+type Podcast struct {
 	// PSP Required
 	AtomLink       AtomLink         `xml:"atom:link"`
 	Title          string           `xml:"title"`
@@ -62,6 +57,13 @@ type Channel struct {
 	Items []*Item `xml:"item"`
 }
 
+func (p *Podcast) WriteFeedXML(w io.Writer) error {
+	feed := emptyFeed
+	feed.Channel = p
+	w.Write([]byte(xml.Header))
+	return xml.NewEncoder(w).Encode(feed)
+}
+
 type AtomLink struct {
 	Href string `xml:"href,attr"`
 	Rel  string `xml:"rel,attr"`
@@ -73,8 +75,8 @@ type Description struct {
 }
 
 type ITunesCategory struct {
-	Text            string `xml:"text,attr"`
-	SubCategoryText string `xml:"itunes:category,omitempty>text,attr,omitempty"`
+	Text        string          `xml:"text,attr"`
+	SubCategory *ITunesCategory `xml:"itunes:category,omitempty"`
 }
 
 type ITunesImage struct {
@@ -101,7 +103,7 @@ type Item struct {
 	Link              string              `xml:"link,omitempty"`
 	PubDate           string              `xml:"pubDate,omitempty"` // TODO time.Time with custom marshaller
 	Description       *Description        `xml:"description,omitempty"`
-	ITunesDuration    string              `xml:"itunes:duration,omitempty"`
+	ITunesDuration    string              `xml:"itunes:duration,omitempty"` // TODO custom marshaller
 	ITunesImage       *ITunesImage        `xml:"itunes:image,omitempty"`
 	ITunesExplicit    *bool               `xml:"itunes:explicit,omitempty"`
 	PodcastTranscript []PodcastTranscript `xml:"podcast:transcript,omitempty"`
@@ -132,57 +134,4 @@ type PodcastTranscript struct {
 	Type     string `xml:"type,attr"`
 	Rel      string `xml:"rel,attr,omitempty"`
 	Language string `xml:"language,attr,omitempty"`
-}
-
-type Parser struct {
-	HTTPClient      *http.Client
-	UserAgent       string
-	AuthCredentials *AuthCredentials
-}
-
-type AuthCredentials struct {
-	Username string
-	Password string
-}
-
-const defaultUserAgent = "gopodcast/1.0"
-
-func NewParser() *Parser {
-	return &Parser{
-		HTTPClient: http.DefaultClient,
-		UserAgent:  defaultUserAgent,
-	}
-}
-
-func (p *Parser) ParseFeedFromURL(ctx context.Context, url string) (*Feed, error) {
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
-	if err != nil {
-		return nil, err
-	}
-	req.Header.Set("User-Agent", p.UserAgent)
-
-	if p.AuthCredentials != nil && p.AuthCredentials.Username != "" && p.AuthCredentials.Password != "" {
-		req.SetBasicAuth(p.AuthCredentials.Username, p.AuthCredentials.Password)
-	}
-
-	res, err := p.HTTPClient.Do(req)
-	if err != nil {
-		return nil, err
-	}
-	defer res.Body.Close()
-
-	if res.StatusCode < 200 || res.StatusCode >= 300 {
-		return nil, fmt.Errorf("non-200 http response '%d'", res.StatusCode)
-	}
-
-	return p.ParseFeed(res.Body)
-}
-
-func (p *Parser) ParseFeed(r io.Reader) (*Feed, error) {
-	var feed Feed
-	err := xml.NewDecoder(r).Decode(&feed)
-	if err != nil {
-		return nil, err
-	}
-	return &feed, nil
 }

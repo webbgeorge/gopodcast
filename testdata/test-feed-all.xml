@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://www.example.com/feed" rel="self" type="application/rss+xml"/>
+    <title>Test podcast 1</title>
+    <link>http://www.example.com/podcast-site</link>
+    <language>en</language>
+    <description>Test podcast description goes here</description>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:image href="http://www.example.com/image.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Drama">
+      <itunes:category text="Thriller"/>
+    </itunes:category>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:guid>podcast-123456</podcast:guid>
+    <itunes:author>Dr Tester</itunes:author>
+    <copyright>Tester Inc.</copyright>
+    <podcast:txt purpose="validation">abcdef</podcast:txt>
+    <podcast:funding url="http://www.example.com/money">Money please</podcast:funding>
+    <itunes:type>Serialised</itunes:type>
+    <itunes:complete>yes</itunes:complete>
+    <item>
+      <title>Test episode 1</title>
+      <enclosure url="http://www.example.com/episode-1.mp3" length="1001" type="audio/mpeg"/>
+      <guid>12345-67890-abcdef</guid>
+      <link>http://www.example.com/ep-link</link>
+      <pubDate>someDate</pubDate>
+      <description>Episode test description</description>
+      <itunes:duration>1234</itunes:duration>
+      <itunes:image href="http://www.example.com/ep-image.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="http://www.example.com/transcript-1-en.txt" type="text/plain" rel="self" language="en"/>
+      <podcast:transcript url="http://www.example.com/transcript-1-fr.txt" type="text/plain" rel="self" language="fr"/>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:block>no</itunes:block>
+    </item>
+  </channel>
+</rss>
