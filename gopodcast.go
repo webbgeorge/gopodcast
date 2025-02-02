@@ -7,8 +7,6 @@ import (
 	"io"
 )
 
-// TODO better types on XML structs, plus custom marshallers
-
 type feed struct {
 	XMLName      xml.Name `xml:"rss"`
 	Version      string   `xml:"version,attr"`
@@ -35,11 +33,11 @@ type Podcast struct {
 	Link           string           `xml:"link"`
 	Language       string           `xml:"language"`
 	ITunesCategory []ITunesCategory `xml:"itunes:category"`
-	ITunesExplicit FlexBool         `xml:"itunes:explicit"`
+	ITunesExplicit Bool             `xml:"itunes:explicit"`
 	ITunesImage    ITunesImage      `xml:"itunes:image"`
 
 	// PSP Recommended
-	PodcastLocked string `xml:"podcast:locked,omitempty"` // TODO custom marshaller (yes/no)
+	PodcastLocked *YesNo `xml:"podcast:locked,omitempty"`
 	PodcastGUID   string `xml:"podcast:guid,omitempty"`
 	ITunesAuthor  string `xml:"itunes:author,omitempty"`
 
@@ -48,7 +46,7 @@ type Podcast struct {
 	PodcastText    *PodcastText    `xml:"podcast:txt,omitempty"`
 	PodcastFunding *PodcastFunding `xml:"podcast:funding,omitempty"`
 	ITunesType     string          `xml:"itunes:type,omitempty"`
-	ITunesComplete string          `xml:"itunes:complete,omitempty"` // TODO custom marshaller
+	ITunesComplete *YesNo          `xml:"itunes:complete,omitempty"`
 
 	// Other fields
 	// TODO other podcast index namespace fields
@@ -104,18 +102,18 @@ type Item struct {
 
 	// PSP Recommended
 	Link              string              `xml:"link,omitempty"`
-	PubDate           string              `xml:"pubDate,omitempty"` // TODO time.Time with custom marshaller
+	PubDate           *Time               `xml:"pubDate,omitempty"`
 	Description       *Description        `xml:"description,omitempty"`
-	ITunesDuration    string              `xml:"itunes:duration,omitempty"` // TODO custom marshaller
+	ITunesDuration    string              `xml:"itunes:duration,omitempty"`
 	ITunesImage       *ITunesImage        `xml:"itunes:image,omitempty"`
-	ITunesExplicit    *FlexBool           `xml:"itunes:explicit,omitempty"`
+	ITunesExplicit    *Bool               `xml:"itunes:explicit,omitempty"`
 	PodcastTranscript []PodcastTranscript `xml:"podcast:transcript,omitempty"`
 
 	// PSP Optional
 	ITunesEpisode     string `xml:"itunes:episode,omitempty"`
 	ITunesSeason      string `xml:"itunes:season,omitempty"`
 	ITunesEpisodeType string `xml:"itunes:episodeType,omitempty"`
-	ITunesBlock       string `xml:"itunes:block,omitempty"`
+	ITunesBlock       *YesNo `xml:"itunes:block,omitempty"`
 
 	// Other Fields
 	// TODO itunes, podcast index namespace
@@ -128,8 +126,8 @@ type Enclosure struct {
 }
 
 type ItemGUID struct {
-	IsPermaLink *FlexBool `xml:"isPermaLink,attr,omitempty"`
-	Text        string    `xml:",chardata"`
+	IsPermaLink *Bool  `xml:"isPermaLink,attr,omitempty"`
+	Text        string `xml:",chardata"`
 }
 
 type PodcastTranscript struct {

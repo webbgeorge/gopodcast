@@ -10,6 +10,7 @@ import (
 	"reflect"
 	"strings"
 	"testing"
+	"time"
 
 	"github.com/webbgeorge/gopodcast"
 )
@@ -43,14 +44,14 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 
 	// non-required channel fields should be zero values
 	assertNil(t, podcast.ITunesCategory[0].SubCategory)
-	assertStr(t, "", podcast.PodcastLocked)
+	assertNil(t, podcast.PodcastLocked)
 	assertStr(t, "", podcast.PodcastGUID)
 	assertStr(t, "", podcast.ITunesAuthor)
 	assertStr(t, "", podcast.Copyright)
 	assertNil(t, podcast.PodcastText)
 	assertNil(t, podcast.PodcastFunding)
 	assertStr(t, "", podcast.ITunesType)
-	assertStr(t, "", podcast.ITunesComplete)
+	assertNil(t, podcast.ITunesComplete)
 
 	// item fields
 	assertInt(t, 2, len(podcast.Items))
@@ -65,7 +66,7 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 
 	// non-required item fields should be zero values
 	assertStr(t, "", item.Link)
-	assertStr(t, "", item.PubDate)
+	assertNil(t, item.PubDate)
 	assertNil(t, item.Description)
 	assertStr(t, "", item.ITunesDuration)
 	assertNil(t, item.ITunesImage)
@@ -73,7 +74,7 @@ func TestParseFeed_RequiredFieldsOnly(t *testing.T) {
 	assertInt(t, 0, len(item.PodcastTranscript))
 	assertStr(t, "", item.ITunesEpisode)
 	assertStr(t, "", item.ITunesSeason)
-	assertStr(t, "", item.ITunesBlock)
+	assertNil(t, item.ITunesBlock)
 }
 
 func TestParseFeed_AllFields(t *testing.T) {
@@ -104,7 +105,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "Comedy", podcast.ITunesCategory[0].Text)
 	assertStr(t, "Drama", podcast.ITunesCategory[1].Text)
 	assertStr(t, "Thriller", podcast.ITunesCategory[1].SubCategory.Text)
-	assertStr(t, "yes", podcast.PodcastLocked)
+	assertBool(t, true, bool(*podcast.PodcastLocked))
 	assertStr(t, "podcast-123456", podcast.PodcastGUID)
 	assertStr(t, "Dr Tester", podcast.ITunesAuthor)
 	assertStr(t, "Tester Inc.", podcast.Copyright)
@@ -113,7 +114,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "Money please", podcast.PodcastFunding.Text)
 	assertStr(t, "http://www.example.com/money", podcast.PodcastFunding.URL)
 	assertStr(t, "Serialised", podcast.ITunesType)
-	assertStr(t, "yes", podcast.ITunesComplete)
+	assertBool(t, true, bool(*podcast.ITunesComplete))
 
 	// item fields
 	assertInt(t, 1, len(podcast.Items))
@@ -124,7 +125,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertInt(t, 1001, int(item.Enclosure.Length))
 	assertStr(t, "12345-67890-abcdef", item.GUID.Text)
 	assertStr(t, "http://www.example.com/ep-link", item.Link)
-	assertStr(t, "someDate", item.PubDate)
+	assertStr(t, "2024-12-26T11:12:13Z", time.Time(*item.PubDate).Format(time.RFC3339))
 	assertStr(t, "Episode test description", item.Description.Text)
 	assertStr(t, "1234", item.ITunesDuration)
 	assertStr(t, "http://www.example.com/ep-image.png", item.ITunesImage.Href)
@@ -140,7 +141,7 @@ func TestParseFeed_AllFields(t *testing.T) {
 	assertStr(t, "fr", item.PodcastTranscript[1].Language)
 	assertStr(t, "1", item.ITunesEpisode)
 	assertStr(t, "2", item.ITunesSeason)
-	assertStr(t, "no", item.ITunesBlock)
+	assertBool(t, false, bool(*item.ITunesBlock))
 }
 
 func TestWriteFeed_RequiredFieldsOnly(t *testing.T) {
@@ -226,7 +227,7 @@ func TestWriteFeed_AllFields(t *testing.T) {
 				Text: "Comedy",
 			},
 		},
-		PodcastLocked: "yes",
+		PodcastLocked: yesNoPtr(true),
 		PodcastGUID:   "podcast-123-abc",
 		ITunesAuthor:  "Mr Author",
 		Copyright:     "Mr Author's Boss",
@@ -239,7 +240,7 @@ func TestWriteFeed_AllFields(t *testing.T) {
 			Text: "Money please",
 		},
 		ITunesType:     "episodic",
-		ITunesComplete: "yes",
+		ITunesComplete: yesNoPtr(true),
 		Items: []*gopodcast.Item{
 			{
 				Title: "A podcast 1",
@@ -253,7 +254,7 @@ func TestWriteFeed_AllFields(t *testing.T) {
 					Text:        "abcdef-123456",
 				},
 				Link:    "http://www.example.com/ep-link",
-				PubDate: "test date",
+				PubDate: timeFromStr("2024-12-25T10:11:12"),
 				Description: &gopodcast.Description{
 					Text: "Test episode description",
 				},
@@ -279,7 +280,7 @@ func TestWriteFeed_AllFields(t *testing.T) {
 				ITunesEpisode:     "1",
 				ITunesSeason:      "2",
 				ITunesEpisodeType: "long",
-				ITunesBlock:       "no",
+				ITunesBlock:       yesNoPtr(false),
 			},
 		},
 	}
@@ -415,9 +416,23 @@ func checkRequiredFeedValuesPresent(t *testing.T, podcast *gopodcast.Podcast) {
 	assertStrNotEmpty(t, item.GUID.Text)
 }
 
-func boolPtr(b bool) *gopodcast.FlexBool {
-	bb := gopodcast.FlexBool(b)
+func boolPtr(b bool) *gopodcast.Bool {
+	bb := gopodcast.Bool(b)
 	return &bb
+}
+
+func yesNoPtr(b bool) *gopodcast.YesNo {
+	bb := gopodcast.YesNo(b)
+	return &bb
+}
+
+func timeFromStr(str string) *gopodcast.Time {
+	t, err := time.Parse("2006-01-02T15:04:05", str)
+	if err != nil {
+		panic(err)
+	}
+	tt := gopodcast.Time(t)
+	return &tt
 }
 
 // aim is for this library to have no dependencies, hence the assert funcs here

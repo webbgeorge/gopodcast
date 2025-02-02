@@ -25,7 +25,7 @@
       <enclosure url="http://www.example.com/episode-1.mp3" length="1001" type="audio/mpeg"/>
       <guid>12345-67890-abcdef</guid>
       <link>http://www.example.com/ep-link</link>
-      <pubDate>someDate</pubDate>
+      <pubDate>Thu, 26 Dec 2024 11:12:13 UTC</pubDate>
       <description>Episode test description</description>
       <itunes:duration>1234</itunes:duration>
       <itunes:image href="http://www.example.com/ep-image.png"/>
