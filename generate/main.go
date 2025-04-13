@@ -49,7 +49,7 @@ type field struct {
 
 // parses all the structs from a source file along with their fields
 func parseFileStructs(fileName string) ([]strct, error) {
-	fsrc, err := os.ReadFile(fileName)
+	fsrc, err := os.ReadFile(fileName) // #nosec G304 -- no user input, only in code gen
 	if err != nil {
 		return nil, err
 	}
