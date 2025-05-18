@@ -187,7 +187,10 @@ func TestWriteFeed_RequiredFieldsOnly(t *testing.T) {
 	}
 
 	buf := &bytes.Buffer{}
-	podcast.WriteFeedXML(buf)
+	err := podcast.WriteFeedXML(buf)
+	if err != nil {
+		t.Fatal(err)
+	}
 
 	exp, err := os.ReadFile("testdata/test-feed-write-minimum.xml")
 	if err != nil {
@@ -286,7 +289,10 @@ func TestWriteFeed_AllFields(t *testing.T) {
 	}
 
 	buf := &bytes.Buffer{}
-	podcast.WriteFeedXML(buf)
+	err := podcast.WriteFeedXML(buf)
+	if err != nil {
+		t.Fatal(err)
+	}
 
 	exp, err := os.ReadFile("testdata/test-feed-write-all.xml")
 	if err != nil {

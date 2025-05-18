@@ -28,7 +28,7 @@ func NewParser() *Parser {
 	}
 }
 
-func (p *Parser) ParseFeedFromURL(ctx context.Context, url string) (*Podcast, error) {
+func (p *Parser) ParseFeedFromURL(ctx context.Context, url string) (pc *Podcast, err error) {
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
 	if err != nil {
 		return nil, err
@@ -43,7 +43,12 @@ func (p *Parser) ParseFeedFromURL(ctx context.Context, url string) (*Podcast, er
 	if err != nil {
 		return nil, err
 	}
-	defer res.Body.Close()
+	defer func() {
+		errVal := res.Body.Close()
+		if errVal != nil {
+			err = errVal
+		}
+	}()
 
 	if res.StatusCode < 200 || res.StatusCode >= 300 {
 		return nil, fmt.Errorf("non-200 http response '%d'", res.StatusCode)
