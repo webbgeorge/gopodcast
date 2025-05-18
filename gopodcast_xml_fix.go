@@ -63,7 +63,7 @@ func (s *xmlFixPodcast) Translate() *Podcast {
 	r.Description = *vDescription
 	r.Link = s.Link
 	r.Language = s.Language
-	vITunesCategory := make([]ITunesCategory, 0)
+	vITunesCategory := make([]ITunesCategory, 0, len(s.ITunesCategory))
 	for _, v := range s.ITunesCategory {
 		x := v.Translate()
 		vITunesCategory = append(vITunesCategory, *x)
@@ -80,7 +80,7 @@ func (s *xmlFixPodcast) Translate() *Podcast {
 	r.PodcastFunding = s.PodcastFunding.Translate()
 	r.ITunesType = s.ITunesType
 	r.ITunesComplete = s.ITunesComplete
-	vItems := make([]*Item, 0)
+	vItems := make([]*Item, 0, len(s.Items))
 	for _, v := range s.Items {
 		vItems = append(vItems, v.Translate())
 	}
@@ -209,7 +209,7 @@ func (s *xmlFixItem) Translate() *Item {
 	r.ITunesDuration = s.ITunesDuration
 	r.ITunesImage = s.ITunesImage.Translate()
 	r.ITunesExplicit = s.ITunesExplicit
-	vPodcastTranscript := make([]PodcastTranscript, 0)
+	vPodcastTranscript := make([]PodcastTranscript, 0, len(s.PodcastTranscript))
 	for _, v := range s.PodcastTranscript {
 		x := v.Translate()
 		vPodcastTranscript = append(vPodcastTranscript, *x)

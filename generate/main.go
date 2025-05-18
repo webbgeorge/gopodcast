@@ -120,13 +120,13 @@ func generateFile(fileName string, structs []strct) error {
 			if isPtr(field.fType) {
 				fmt.Fprintf(output, "\tr.%s = s.%s.Translate()\n", field.name, field.name)
 			} else if isSlicePtr(field.fType) {
-				fmt.Fprintf(output, "\tv%s := make(%s, 0)\n", field.name, field.fType)
+				fmt.Fprintf(output, "\tv%s := make(%s, 0, len(s.%s))\n", field.name, field.fType, field.name)
 				fmt.Fprintf(output, "\tfor _, v := range s.%s {\n", field.name)
 				fmt.Fprintf(output, "\t\tv%s = append(v%s, v.Translate())\n", field.name, field.name)
 				fmt.Fprint(output, "\t}\n")
 				fmt.Fprintf(output, "\tr.%s = v%s\n", field.name, field.name)
 			} else if isSlice(field.fType) {
-				fmt.Fprintf(output, "\tv%s := make(%s, 0)\n", field.name, field.fType)
+				fmt.Fprintf(output, "\tv%s := make(%s, 0, len(s.%s))\n", field.name, field.fType, field.name)
 				fmt.Fprintf(output, "\tfor _, v := range s.%s {\n", field.name)
 				fmt.Fprint(output, "\t\tx := v.Translate()\n")
 				fmt.Fprintf(output, "\t\tv%s = append(v%s, *x)\n", field.name, field.name)
