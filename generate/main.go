@@ -55,7 +55,7 @@ func parseFileStructs(fileName string) ([]strct, error) {
 	}
 
 	fset := token.NewFileSet()
-	f, err := parser.ParseFile(fset, "", fsrc, parser.AllErrors)
+	f, err := parser.ParseFile(fset, fileName, fsrc, parser.AllErrors)
 	if err != nil {
 		return nil, err
 	}
@@ -78,10 +78,10 @@ func parseFileStructs(fileName string) ([]strct, error) {
 				if f.Tag != nil {
 					tag = transformXMLTag(f.Tag.Value)
 				}
-				typeStr := fsrc[f.Type.Pos()-1 : f.Type.End()-1]
+				typeStr := string(fsrc[f.Type.Pos()-1 : f.Type.End()-1])
 				strct.fields = append(strct.fields, field{
 					name:  f.Names[0].Name,
-					fType: string(typeStr),
+					fType: typeStr,
 					tag:   tag,
 				})
 			}
@@ -112,7 +112,7 @@ func generateFile(fileName string, structs []strct) error {
 		fmt.Fprint(output, "if s == nil {\n\treturn nil\n}\n")
 		fmt.Fprintf(output, "\tvar r %s\n", strct.name)
 		for _, field := range strct.fields {
-			if ignoreType(field.fType) {
+			if isIgnoreType(field.fType) {
 				fmt.Fprintf(output, "\tr.%s = s.%s\n", field.name, field.name)
 				continue
 			}
@@ -186,7 +186,7 @@ func transformFieldType(inType string) string {
 	return fType
 }
 
-func ignoreType(t string) bool {
+func isIgnoreType(t string) bool {
 	return slices.Contains(ignoreTypes, strings.TrimLeft(t, "*[]"))
 }
 
